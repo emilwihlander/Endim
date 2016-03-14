@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  25 FEB 2016 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  13 MAR 2016 14:42
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -998,22 +998,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 1796--1800
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1805--1808
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1813--1816
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1825
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1821--1824
+Underfull \hbox (badness 10000) in paragraph at lines 1845--1849
 
  []
 
-[32] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1862
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1891--1895
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1902
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1909
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1920--1923
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1927--1930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1937
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1951
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1965
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1972
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1979
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1986
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1993
+
+ []
+
+[36] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
  2821 strings out of 493634
  34713 string characters out of 3135239
@@ -1045,9 +1120,9 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/emil
 w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/line10
 .pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (32 pages, 250127 bytes).
+Output written on Endimensionell_analys.pdf (36 pages, 256338 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
+ 408 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
