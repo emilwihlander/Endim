@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  13 MAR 2016 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  14 MAR 2016 03:35
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1019,72 +1019,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 1891--1895
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1899--1902
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1909
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1913--1916
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1923
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1910
 
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 1927--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1921--1925
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--1937
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1941--1944
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1948--1951
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1955--1958
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1965
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1969--1972
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1976--1979
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1983--1986
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1966
 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 1990--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1980
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1984--1987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1994
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2001
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2005--2008
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2012--2015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2019--2022
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2026--2029
 
  []
 
@@ -1120,7 +1110,7 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/emil
 w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/line10
 .pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (36 pages, 256338 bytes).
+Output written on Endimensionell_analys.pdf (36 pages, 258630 bytes).
 PDF statistics:
  408 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1771,7 +1771,7 @@
 	\texttt{\tskcol{3.1~~~a) (s. 33-34)}}
 	\begin{quotation}
 		\noindent
-		Utnyttja nollproduktionsmetoden.
+		Utnyttja faktorsatsen (varje faktor är ett nollställe).
 		\\ \\
 		\textbf{Svar: $x_1=1$, $x_2=2$, $x_3=3$}
 	\end{quotation}
@@ -1781,7 +1781,7 @@
 		\noindent
 		$x(x^2-4)=0$. Faktorisera först $x^2-4$ med konjugatregeln.
 		\[x(x+2)(x-2)=0\]
-		Utnyttja sedan nollproduktionsmetoden.
+		Utnyttja sedan faktorsatsen (varje faktor är ett nollställe).
 		\\ \\
 		\textbf{Svar: $x_1=0$, $x_2=-2$, $x_3=2$}
 	\end{quotation}
@@ -1794,7 +1794,7 @@
 		
 		Faktorisera genom att gissa $a$ och $b$ så $(x+a)(x+b)=x^2+10x+24=0$. $a = 4$ och $b = 6$. 
 		\[(x+4)(x+6)=0\]
-		Utnyttja sedan nollproduktionsmetoden. 
+		Utnyttja sedan faktorsatsen (varje faktor är ett nollställe). 
 		\\ \\
 		\emph{Alternativ 2:}
 		
@@ -1819,7 +1819,7 @@
 		
 		Faktorisera genom att gissa $a$ och $b$ så $(x+a)(x+b)=x^2+10x+25=0$. $a = 5$ och $b = 5$. 
 		\[(x+5)^2=0\]
-		Utnyttja sedan nollproduktionsmetoden. 
+		Utnyttja sedan faktorsatsen (varje faktor är ett nollställe). 
 		\\ \\
 		\emph{Alternativ 2:}
 		
@@ -1887,7 +1887,7 @@
 		\noindent
 		\[p(x)=x^2-x-\frac{3}{4}\]
 		\[x^2-x-\frac{3}{4}=0\]
-		Använd pq-formeln.
+		Använd pq-formeln (eller kvadratkomplettering).
 		\[x=\frac{1}{2}\pm\sqrt{\frac{1}{4}+\frac{3}{4}}=\frac{1}{2}\pm 1 \Rightarrow x_1=\frac{3}{2},~~x_2=-\frac{1}{2}\] \\
 		Faktorsatsen ger: $p(x)=(x-\frac{3}{2})(x+\frac{1}{2})$
 		\\ \\
@@ -1897,29 +1897,62 @@
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
+		\[p(x)=2x^2-3x-2\]
+		\[2x^2-3x-2=0 \Leftrightarrow x^2-\frac{3}{2}x-1=0\]
+		Använd pq-formeln (eller kvadratkomplettering).
+		\[x=\frac{3}{4}\pm\sqrt{\left(\frac{3}{4}\right)^2+1}=
+		\frac{3}{4}\pm\sqrt{\frac{9}{16}+\frac{16}{16}}=
+		\frac{3}{4}\pm \frac{5}{4}
+		\Rightarrow x_1=2,~~x_2=-\frac{1}{2}\] \\
+		Faktorsatsen ger: $p(x)=(x-2)(x+\frac{1}{2})$
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} $p(x)=\left(x-2\right)\left(x+\dfrac{1}{2}\right)$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
+		\[p(x)=-x^2+x+12\]
+		\[-x^2+x+12=0 \Leftrightarrow x^2-x-12=0\]
+		Använd pq-formeln (eller kvadratkomplettering).
+		\[x=\frac{1}{2}\pm\sqrt{\frac{1}{4}+12}=
+		\frac{1}{2}\pm\sqrt{\frac{1}{4}+\frac{48}{4}}=
+		\frac{1}{2}\pm \frac{7}{2}
+		\Rightarrow x_1=4,~~x_2=-3\] \\
+		Faktorsatsen ger: $p(x)=(x-4)(x+3)$
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} $p(x)=(x-4)(x+3)$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\[p(x)=x^3-x^2+\frac{1}{4}x=x\left(x^2-x+\frac{1}{4}\right)\]
+		\[g(x)=x^2-x+\frac{1}{4}\]
+		\[x(x^2-x+\frac{1}{4})=0 \Leftrightarrow x*g(x)=0\]
+		Använd pq-formeln (eller kvadratkomplettering) på $g(x)=0$.
+		\[x=\frac{1}{2}\pm\sqrt{\frac{1}{4}-\frac{1}{4}}=
+		\frac{1}{2}\pm 0=
+		\frac{1}{2}
+		\Rightarrow x_{1,2}=\frac{1}{2}\] \\
+		Faktorsatsen ger: $g(x)=(x-\frac{1}{2})^2$
+		\[p(x)=x*g(x)=x(x-\tfrac{1}{2})^2\]
+		\\
+		\textbf{Svar:} $p(x)=x\left(x-\dfrac{1}{2}\right)^2$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~e) (s.)}}
 	\begin{quotation}
 		\noindent
+		\[p(x)=3x^3-6x^2+15x=x(3x^2-6x+15)\]
+		\[g(x)=3x^2-6x+15\]
+		\[x(3x^2-6x+15)=0 \Leftrightarrow x*g(x)=0\]
+		Använd pq-formeln (eller kvadratkomplettering) på $g(x)=0$.
+		\[3x^2-6x+15=0 \Leftrightarrow x^2-2x+5=0\]
+		\[x=1\pm\sqrt{1-5} \Rightarrow \text{Saknar reell lösning}\] \\
+		Faktorsatsen ger då att $g(x)$ inte kan faktoriseras.
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} $p(x)=x(3x^2-6x+15)$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~f) (s.)}}
