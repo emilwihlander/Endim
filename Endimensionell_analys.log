@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  14 MAR 2016 03:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  14 MAR 2016 12:02
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1029,62 +1029,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 1921--1925
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1963--1966
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1955
 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1973
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1970
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1977--1980
+Underfull \hbox (badness 10000) in paragraph at lines 1974--1977
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1984--1987
+Underfull \hbox (badness 10000) in paragraph at lines 1981--1984
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1991--1994
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1991
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1998--2001
+Underfull \hbox (badness 10000) in paragraph at lines 1995--1998
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2005--2008
+Underfull \hbox (badness 10000) in paragraph at lines 2002--2005
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2012--2015
+Underfull \hbox (badness 10000) in paragraph at lines 2009--2012
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2019--2022
+Underfull \hbox (badness 10000) in paragraph at lines 2016--2019
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2029
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2026
 
  []
 
-[36] (Endimensionell_analys.aux) ) 
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 2030--2033
+
+ []
+
+[37] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
- 2821 strings out of 493634
- 34713 string characters out of 3135239
+ 2825 strings out of 493634
+ 34753 string characters out of 3135239
  109945 words of memory out of 3000000
- 6174 multiletter control sequences out of 15000+200000
- 16373 words of font info for 49 fonts, out of 3000000 for 9000
+ 6176 multiletter control sequences out of 15000+200000
+ 17907 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,20n,26p,525b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fon
@@ -1110,9 +1115,9 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/emil
 w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/line10
 .pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (36 pages, 258630 bytes).
+Output written on Endimensionell_analys.pdf (37 pages, 260614 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
+ 414 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
