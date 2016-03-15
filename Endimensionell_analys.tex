@@ -10,6 +10,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{cancel}
+\usepackage{graphicx}
 
 \usepackage{color}
 \definecolor{tskcol}{RGB}{193,70,70}
@@ -1969,53 +1970,160 @@
 		\textbf{Svar:} $p(x)=(x-2)(x+2)(x-\sqrt{2})(x+\sqrt{2})$
 	\end{quotation}
 	
+	\pagebreak	
 	\texttt{\tskcol{3.4~~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\includegraphics[scale=0.3]{images/34.png} \\
+		Satsen om likbent triangel ger att den båda rätvinkliga trianglarna är kongruenta vilket medför att basen för båda är $3cm$.
+		Pyth. sats ger att $h=\sqrt{5^2-3^2}=4 \Rightarrow$ arean: $6*4/2=12cm^2$ och omkretsen är $16cm$. \\ \\
+		Låt benen vara $y$ och basen $x$ \\ \\
+		$h=\sqrt{y^2-(x/2)^2}$ \\
+		area: $\dfrac{x*h}{2}=\dfrac{x\sqrt{y^2-(x/2)^2}}{2}=12cm \Leftrightarrow x\sqrt{y^2-(x/2)^2}=24cm$ \\
+		omkrets: $2y+x=16cm \Leftrightarrow x=16-2y$
+		\begin{align*}
+		&(16-2y)\sqrt{y^2-(8-y)^2}=24 \Leftrightarrow
+		2(8-y)4\sqrt{y-4}=24 \Leftrightarrow \\
+		&(8-y)\sqrt{y-4}=3 \Rightarrow
+		(y^2-16y+64)(y-4)=9 \Leftrightarrow \\
+		&y^3-4y^2-16y^2+64y+64y-256=9 \Leftrightarrow
+		y^3-20y^2+128y-265=0
+		\end{align*}
+		Ansätter lösning med $x-5$ som faktor från ursprungsfiguren (kan lösas med polynomdivision också): \\
+		\[y^3-20y^2+128y-265=(x-5)(x^2+Ax+B)=x^3+(A-5)y^2+(B-5A)y-5B\]
+		Identifierar variablerna: \\
+		\[\begin{cases}
+		A-5=-20 \\
+		B-5A=128
+		\end{cases}
+		\Leftrightarrow
+		\begin{cases}
+		A=-15 \\
+		B=53
+		\end{cases}\]
+		\[y^3-20y^2+128y-265=(y-5)(y^2-15y+53)\] \\
+		$y^2-15y+53=0$ \\
+		pq-formeln: \\
+		$y=\dfrac{15}{2}\pm\sqrt{\dfrac{15^2-212}{4}}=\dfrac{15\pm\sqrt{13}}{2}$ \\
+		$y_1=\dfrac{15+\sqrt{13}}{2} \Rightarrow 
+		x=16-15-\sqrt{13} \Rightarrow 
+		x < 0 \Rightarrow$ falsk rot \\
+		$y_2=\dfrac{15-\sqrt{13}}{2} \Rightarrow x=16-15+\sqrt{13}=1+\sqrt{13}$ \\ \\
+		\textbf{Svar:} $x=1+\sqrt{13}$ och $y=\dfrac{15-\sqrt{13}}{2}$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{3.5~~~a) (s.)}}
 	\begin{quotation}
 		\noindent
+		\begin{align*}
+		&\dfrac{1}{x-1}+\dfrac{1}{x}+\dfrac{1}{x+1}=0\Leftrightarrow
+		\dfrac{x(x+1)+x^2-1+x(x-1)}{x(x^2-1)}=0 \Leftrightarrow \\
+		&\dfrac{3x^2-1}{x(x^2-1)}=0\Rightarrow 
+		3x^2-1=0 \Leftrightarrow 
+		(\sqrt{3}x+1)(\sqrt{3}x-1)=0 \Leftrightarrow
+		(x+\frac{1}{\sqrt{3}})(x-\frac{1}{\sqrt{3}})=0
+		\end{align*}
+		Faktorsatsen ger då: $x_1=-\frac{1}{\sqrt{3}}$ och $x_2=\frac{1}{\sqrt{3}}$
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} $x_{1,2}=\pm\frac{1}{\sqrt{3}}$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\begin{align*}
+		&\dfrac{1}{x-1}-\dfrac{1}{x-2}=\dfrac{1}{x-3}-\dfrac{1}{x-4}\Leftrightarrow 
+		\dfrac{\cancel{x}-2-\cancel{x}+1}{(x-1)(x-2)}=\dfrac{\cancel{x}-4-\cancel{x}+3}{(x-3)(x-4)} \Leftrightarrow \\
+		&\dfrac{1}{x^2-3x+2}=\dfrac{1}{x^2-7x+12} \Rightarrow
+		\cancel{x^2}-3x+2=\cancel{x^2}-7x+12 \Leftrightarrow \\
+		&x=\frac{10}{4}=\frac{5}{2}
+		\end{align*}
+		\\
+		\textbf{Svar:} $x=\frac{5}{2}$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\begin{align*}
+		&\dfrac{1}{x^2-2x}+\dfrac{1}{x^2+3x}=0 \Leftrightarrow 
+		\dfrac{\cancel{x}(x+3)+\cancel{x}(x-2)}{x^{\cancel{2}}(x-2)(x+3)}=0 \Rightarrow \\
+		&x+3+x-2=0 \Leftrightarrow
+		2x+1=0 \Leftrightarrow
+		x=-\frac{1}{2}
+		\end{align*}
+		\\
+		\textbf{Svar:} $x=-\frac{1}{2}$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
+		\begin{align*}
+		&\dfrac{1}{x+2}-\dfrac{x+2}{x-2}=\dfrac{x^2}{4-x^2}\Leftrightarrow
+		\dfrac{x-2-(x+2)^2}{x^2-4}=\dfrac{x^2}{4-x^2} \Rightarrow \\
+		&(4-x^2)(-x^2-3x-6)=x^2(x^2-4) \Leftrightarrow \\
+		&-\cancel{4x^2}-12x-24+\cancel{x^4}+3x^3+6x^2=\cancel{x^4}-\cancel{4x^2} \Leftrightarrow \\
+		&x^3+2x^2-4x-8=0
+		\end{align*}
+		Gissar en lösning till ekvationen och hittar $x=2$. Ansätter lösning med $x-2$ som faktor (kan lösas med polynomdivision också): 
+		\[x^3+2x^2-4x-8=(x-2)(x^2+Ax+B)=x^3+(A-2)x^2+(B-2A)x-2B\]
+		Identifierar variabler:
+		\[\begin{cases}
+		A-2=2 \\
+		B-2A=-4
+		\end{cases}
+		\Leftrightarrow
+		\begin{cases}
+		A=4 \\
+		B=4
+		\end{cases}\]
+		\[(x-2)(x^2+4x+4)=0\]
+		Kvadreringsregeln:
+		\[(x-2)(x^2+4x+4)=0\Leftrightarrow 
+		(x-2)(x+2)^2=0\]
+		Faktorsatsen: $x_1=2$ och $x_{2,3}=-2$.
+		Både $2$ och $-2$ är dock falska rötter då de resulterar i nolldivision i ursprungsekvationen.
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} Ekvationen saknar lösning
 	\end{quotation}
 	
 	\texttt{\tskcol{3.6~~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Formeln för hastighet, sträcka och tid är $s=v*t \Leftrightarrow t=\frac{s}{v}$. Låt $x$ vara båtens hastighet i stillastående vatten. Den totala tiden för resan är tiden dit ($t_1$) plus tiden tillbaka ($t_1$) ($t_1+t_2=t$).
+		Hastigheten båten har dit ($v_1$) kan beskrivas som $x-2.4$ och hastigheten hem ($v_2$) som $x+2.4$. $t=2$ och $s=6.4$.
+		\[t_1+t_2=t\Leftrightarrow
+		\frac{s}{v_1}+\frac{s}{v_2}=t\] \\
+		\begin{align*}
+		&\frac{6.4}{x-2.4}+\frac{6.4}{x+2.4} = 2 \Leftrightarrow
+		\frac{6.4(x+2.4)+6.4(x-2.4)}{(x-2.4)(x+2.4)} = 2 \Leftrightarrow \\
+		&6.4(2x+\cancel{2.4-2.4})=2(x^2-2.4^2) \Leftrightarrow
+		\cancel{2}*6.4x=\cancel{2}(x^2-2.4^2) \Leftrightarrow \\
+		&x^2-6.4x-5.76=0
+		\end{align*}
+		pq-formeln:
+		\[x=3.2\pm\sqrt{10.24+5.76} =3.2\pm\sqrt{16}=3.2\pm 4\]
+		$x_1=7.2$ och $x_2=-0.8$. Eftersom hastigheten i uppgiften inte kan vara negativ gäller endast $x_1$
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} $7.2$ km/h 
 	\end{quotation}
 	
 	\texttt{\tskcol{3.7~~~a) (s.)}}
 	\begin{quotation}
 		\noindent
+		\[\sqrt{x+2}=x \Rightarrow
+		x+2=x^2 \Leftrightarrow
+		x^2-x-2=0 \]
+		pq-formeln: \\
+		\[x=\frac{1}{2}\pm\sqrt{\frac{1}{4}+\frac{8}{4}} \Leftrightarrow
+		x=\frac{1}{2}\pm\frac{3}{2}\]
+		$x_1=2$ \\
+		$x_2=-1$ Falsk rot (sätt in i ursprungsekvationen).
 		\\ \\
-		\textbf{Svar:} 
+		\textbf{Svar:} $x_1=2$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
