@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  15 MAR 2016 02:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  15 MAR 2016 21:44
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1154,16 +1154,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 2122--2127
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2131--2134
+Underfull \hbox (badness 10000) in paragraph at lines 2134--2136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2138--2141
+Underfull \hbox (badness 10000) in paragraph at lines 2137--2142
 
  []
 
-[40] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2161
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 2213--2215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2215--2220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2241--2247
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 2264--2267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2300--2306
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 2311--2320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2311--2320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2324--2328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2332--2343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2332--2343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2347--2357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2347--2357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2361--2373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2361--2373
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2378--2385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2389--2392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2396--2399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2403--2406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2410--2413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2417--2420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2424--2427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2431--2434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2438--2441
+
+ []
+
+[44] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
  3031 strings out of 493634
  37814 string characters out of 3135239
@@ -1195,9 +1335,9 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/emil
 w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/line10
 .pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (40 pages, 279319 bytes).
+Output written on Endimensionell_analys.pdf (44 pages, 290507 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
