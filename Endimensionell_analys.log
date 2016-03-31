@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  31 MAR 2016 12:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  31 MAR 2016 17:52
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1239,46 +1239,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 2392--2396
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2400--2403
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2407--2410
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2414--2417
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2421--2424
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2428--2431
+Underfull \hbox (badness 10000) in paragraph at lines 2405--2414
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 2435--2438
+Underfull \hbox (badness 10000) in paragraph at lines 2434--2443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2442--2445
+Underfull \hbox (badness 10000) in paragraph at lines 2447--2451
+
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2449--2452
+Underfull \hbox (badness 10000) in paragraph at lines 2493--2498
 
  []
 
-[45] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2507--2517
+
+ []
+
+[46] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
  3031 strings out of 493634
  37814 string characters out of 3135239
@@ -1310,9 +1300,9 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/emil
 w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/line10
 .pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (45 pages, 292036 bytes).
+Output written on Endimensionell_analys.pdf (46 pages, 297126 bytes).
 PDF statistics:
- 452 PDF objects out of 1000 (max. 8388607)
+ 455 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
