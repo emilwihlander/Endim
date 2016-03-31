@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  31 MAR 2016 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  31 MAR 2016 23:11
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1268,7 +1268,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 2507--2517
 
  []
 
-[46] (Endimensionell_analys.aux) ) 
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 2550--2553
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2557--2560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2567
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2571--2574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2580--2583
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 2587--2590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2594--2597
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2601--2604
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2615--2618
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2622--2625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2629--2632
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2636--2639
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2646
+
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 2652--2655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2659--2662
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2666--2669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2673--2676
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2680--2683
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2690
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2694--2697
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2701--2704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2708--2711
+
+ []
+
+[49] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
  3031 strings out of 493634
  37814 string characters out of 3135239
@@ -1278,31 +1393,32 @@ Here is how much of TeX's memory you used:
  1025 hyphenation exceptions out of 8191
  27i,21n,26p,525b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\emilw\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\emilw\AppData\
-Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:\Users\emil
-w\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\
-Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx144
+ts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\emilw\AppData\Local\MiKT
+eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\emilw\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\emil
+w\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:\
+Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx120
 0.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecrm1000.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
-en\ec\dpi600\ecrm1200.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecrm1728.pk><C:/Users/emilw/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/emilw/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/emilw/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Us
-ers/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
-7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr5.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/emilw/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/emilw/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/emil
-w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/line10
-.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (46 pages, 297126 bytes).
+00\ecbx1440.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
+en\ec\dpi600\ecrm1000.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fo
+nts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Users/emilw/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/emilw/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/User
+s/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.
+pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/emilw/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/emilw/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/emilw/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
+Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxf
+ont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/symbols/msbm10.pfb>
+Output written on Endimensionell_analys.pdf (49 pages, 305793 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
+ 480 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
