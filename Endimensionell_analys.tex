@@ -2531,8 +2531,8 @@
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\[\sum_{k=0}^{4}(k^2-3k)=0^2-3*0+1^2-3*1+2^2-3*2+3^2-3*3+4^2-3*4=\]\[
-		1-3+4-6+9-9+16-12=0\]
+		\[\sum_{k=0}^{4}(k^2-3k)=0^2-3*0+1^2-3*1+2^2-3*2+3^2-3*3+4^2-3*4=\]
+		\[1-3+4-6+9-9+16-12=0\]
 		\\
 		\textbf{Svar:} $0$
 	\end{quotation}
@@ -2540,7 +2540,7 @@
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\[\sum_{k=2}^{100}3=\underbrace{3+3+\ldots+3+3}_\text{99 st.}=297\]
+		\[\sum_{k=2}^{100}3=\underbrace{3+3+\ldots+3+3}_\text{99 st.}=3*99=297\]
 		\\
 		\textbf{Svar:} $297$
 	\end{quotation}
@@ -2548,29 +2548,35 @@
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Antalet element kommer alltid vara lika med övre gränsen minus undre gränsen plus ett.
+		\[\sum_{k=m}^{n}3=3(n-m+1)\]
+		\\
+		\textbf{Svar:} $3(n-m+1)$
 	\end{quotation}
 	
 	\texttt{\tskcol{4.2~~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\[\underbrace{1+\frac{1}{2}+\frac{1}{3}+\ldots+\frac{1}{10}}_\text{10 st. från 1 till 10}=\sum_{k=1}^{10}\frac{1}{k}\]
+		\\
+		\textbf{Svar:} $\displaystyle\sum_{k=1}^{10}\frac{1}{k}$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\[\underbrace{2*3+3*4+4*5+\ldots+n(n+1)}_\text{från 2 till n}=\sum_{k=2}^{n}k(k+1)\]
+		\\
+		\textbf{Svar:} $\displaystyle\sum_{k=2}^{n}k(k+1)$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Hitta mönstret och skriv om så det kan skrivas med summatecken.
+		\[1+3+9+27+81+243=\underbrace{3^0+3^1+3^2+3^3+3^4+3^5}_\text{6 st. från 0 till 5}=\sum_{k=0}^{5}3^k\]
+		\\
+		\textbf{Svar:} $\displaystyle\sum_{k=0}^{5}3^k$
 	\end{quotation}
 	
 	\subsection*{Aritmetisk summa}
@@ -2578,43 +2584,74 @@
 	\texttt{\tskcol{4.3~~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Se formeln för aritmetisk summa.
+		\[1+2+\ldots+100=\sum_{k=1}^{100}k=\frac{100(100+1)}{2}=5050\]
+		\\
+		\textbf{Svar:} $5050$
 	\end{quotation}
 	
 	\texttt{\tskcol{4.4~~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Hitta mönstret och skriv om så det går att skrivas med summatecken.
+		\[3+6+\ldots+96+99=
+		3*1+3*2+\ldots+3*32+3*33=\]
+		\[3\underbrace{(1+2+\ldots+33+44)}_\text{33 st. från 1 till 33}=3\sum_{k=1}^{33}k=
+		3*\frac{33*34}{2}=
+		1683\]
+		\\
+		\textbf{Svar:} $1683$
 	\end{quotation}
 	
 	\texttt{\tskcol{4.5~~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		\[1+2+3+\ldots+9+10=\sum_{k=1}^{10}k=\frac{10*11}{2}=55\]
+		\\
+		\textbf{Svar:} $55$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		bryt ut fyran och skriv om med summatecken.
+		\[4+8+12+\ldots+36+40=4(1+2+3+\ldots+9+10)=4\sum_{k=1}^{10}k=4*\frac{10*11}{2}=220\]
+		\\
+		\textbf{Svar:} $220$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Dela upp serien och inse att den kan delas upp i två separata summor och att fyran kan brytas ut.
+		\begin{align*}
+		&3+7+11+\ldots+35+39= \\
+		&(4*1-1)+(4*2-1)+(4*3-1)+\ldots+(4*9-1)+(4*10-1)= \\
+		&4(1+2+3+\ldots+9+10)-(\underbrace{1+1+1\ldots+1+1}_\text{10 st.})= \\
+		&4\sum_{k=1}^{10}k-\sum_{k=1}^{10}1=
+		4*\frac{10*11}{2}-10*1=
+		210
+		\end{align*} 
+		\\
+		\textbf{Svar:} $210$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Dela upp serien och inse att den kan delas upp i två separata summor och att tian kan brytas ut.
+		\begin{align*}
+		&-3+7+17+\ldots+87+97= \\
+		&(10*0-3)+(10*1-3)+(10*2-3)+\ldots+(10*9-3)+(10*10-3)= \\
+		&10(0+1+2+\ldots+9+10)-(\underbrace{3+3+3\ldots+3+3}_\text{11 st.})= \\
+		&10\sum_{k=0}^{10}k-\sum_{k=0}^{10}3=
+		10(0+\sum_{k=1}^{10}k)-\sum_{k=0}^{10}3
+		10*\frac{10*11}{2}-11*3=
+		517
+		\end{align*} 
+		\\
+		\textbf{Svar:} $517$
 	\end{quotation}
 	
 	\texttt{\tskcol{4.6~~~a) (s.)}}
