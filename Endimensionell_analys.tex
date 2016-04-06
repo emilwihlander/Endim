@@ -3227,22 +3227,44 @@
 	\texttt{\tskcol{4.19~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Vi börjar med att testa högstagradstermerna i båda potenserna.
 		\\ \\
-		\textbf{Svar:} 
+		Första: $(x^3)^{16}=x^{48}$
+		\\
+		Andra: $(x^4)^{12}=x^{48}$
+		\\ \\
+		De båda kommer alltså ta ut varandra. Vi får då en nivå lägre.
+		\\ \\
+		Första: ${16 \choose 1}(x^3)^{15}(-2)^1=-\frac{16!}{1!*15!}x^{45}*2=-32x^{45}$
+		\\
+		Andra: ${12 \choose 1}(x^4)^{11}3^1=\frac{12!}{1!*11!}x^{44}*3=36x^{44}$
+		\\ \\
+		\textbf{Svar:} $-32x^{45}$
 	\end{quotation}
 	
 	\texttt{\tskcol{4.20~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Använd binomialsatsen med $a=b=1$.
+		\begin{align*}
+		&2^n=
+		(1+1)^n=
+		{n \choose 0}1^n1^0+{n \choose 1}1^{n-1}1^1+{n \choose 2}1^{n-2}1^2+\ldots+{n \choose n}1^{0}1^{n}=\\
+		&={n \choose 0}+{n \choose 1}+{n \choose 2}+\ldots+{n \choose n}\text{ V.S.V.}
+		\end{align*}
+		Detta innebär att summan av talen i den $(n-1)$:a raden i Pascals triangel är $2^n$, t.ex. är $1+3+3+1=2^3$.
 	\end{quotation}
 	
 	\texttt{\tskcol{4.21~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:} 
+		Använd binomialsatsen baklänges.
+		\begin{align*}
+		&{n \choose 0}-{n \choose 1}+{n \choose 2}-\ldots+(-1)^n{n \choose n}= \\
+		&={n \choose 0}1^n(-1)^0+{n \choose 1}1^{n-1}(-1)^1+{n \choose 2}1^{n-2}(-1)^2+\ldots+{n \choose n}1^{0}(-1)^n=\\
+		&=(1-1)^n=
+		0 \text{ V.S.V}
+		\end{align*}
 	\end{quotation}
 	
 	\texttt{\tskcol{4.22~~~~ (s.)}}
