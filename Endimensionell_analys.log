@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  7 APR 2016 00:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  7 APR 2016 00:47
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1352,18 +1352,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3229--3243
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3272--3275
-
- []
-
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 3281--3284
+Underfull \hbox (badness 10000) in paragraph at lines 3289--3296
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3288--3291
+Underfull \hbox (badness 10000) in paragraph at lines 3300--3307
 
  []
 
@@ -1400,7 +1395,7 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
 Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxf
 ont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (60 pages, 341662 bytes).
+Output written on Endimensionell_analys.pdf (60 pages, 342632 bytes).
 PDF statistics:
  529 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
