@@ -11,6 +11,9 @@
 \usepackage{amssymb}
 \usepackage{cancel}
 \usepackage{graphicx}
+\usepackage{tikz}
+
+\usetikzlibrary{arrows}
 
 \usepackage{color}
 \definecolor{tskcol}{RGB}{193,70,70}
@@ -3957,83 +3960,217 @@
 	\texttt{\tskcol{5.14~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Definitionen av kvadratroten:
+		\[\text{Om } a^2 = b \text{ och } a \ge 0 \text{ då är } a = \sqrt{b}\]
+		Vilket innebär att $\sqrt{a^2} = a$ om $a \ge 0$. \\ \\
+		Använd nu faktumet att $|a|$ alltid är positivt och regeln $a^2=|a|^2$.
+		\[\sqrt{x^2}=\sqrt{|x|^2}=|x| \text{ V.S.V}\]
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp och att $\sqrt{x^2}=|x|$.
+		\[\sqrt{(x-1)^2}=
+		|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x-1 \ge 0 \text{ dvs. } x \ge 1\\
+		-(x-1)& \text{då } x-1 < 0   \text{ dvs. } x < 1
+		\end{cases}\]
+		\begin{align*}
+		& x \le 1:~~ x-1=3 \Leftrightarrow x=4 \\
+		& x > 1:~~ -(x-1)=3 \Leftrightarrow x=-2
+		\end{align*}
+		\\
+		\textbf{Svar:} $x=4$ eller $x=-2$
 	\end{quotation}
 	
 	\texttt{\tskcol{5.15~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x|=
+		\begin{cases}
+		x& \text{då } x \ge 0 \\
+		-x& \text{då } x < 0
+		\end{cases}\]
+		\begin{align*}
+		& x \ge 0:~~ x=3 \\
+		& x < 0:~~ -x=3 \Leftrightarrow x=-3
+		\end{align*}
+		\\
+		\textbf{Svar:} $x=3$ eller $x=-3$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x|=
+		\begin{cases}
+		x& \text{då } x \ge 0 \\
+		-x& \text{då } x < 0
+		\end{cases}\]
+		\begin{align*}
+		& x \ge 0:~~ x<3 \\
+		& x < 0:~~ -x<3 \Leftrightarrow x>-3
+		\end{align*}
+		Kombinera sedan definitionsmängden för uttrycket och uttrycket.
+		\[-3 < x < 0 \text{ eller } 0 \le x < 3 \Leftrightarrow -3 < x < 3\]
+		\\
+		\textbf{Svar:} $-3 < x < 3$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x|=
+		\begin{cases}
+		x& \text{då } x \ge 0 \\
+		-x& \text{då } x < 0
+		\end{cases}\]
+		\begin{align*}
+		& x \ge 0:~~ x \ge 3 \\
+		& x < 0:~~ -x \ge 3 \Leftrightarrow x \le -3
+		\end{align*}
+		Kombinera sedan definitionsmängden för uttrycket och uttrycket.
+		\[x \ge 3 \text{ eller } x \le -3\]
+		\\
+		\textbf{Svar:} $x \ge 3$ eller $x \le -3$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x-1 \ge 0 \text{ dvs. } x \ge 1\\
+		-(x-1)& \text{då } x-1 < 0   \text{ dvs. } x < 1
+		\end{cases}\]
+		\begin{align*}
+		& x \le 1:~~ x-1=3 \Leftrightarrow x=4 \\
+		& x > 1:~~ -(x-1)=3 \Leftrightarrow x=-2
+		\end{align*}
+		\\
+		\textbf{Svar:} $x=4$ eller $x=-2$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~e) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x-1 \ge 0 \text{ dvs. } x \ge 1\\
+		-(x-1)& \text{då } x-1 < 0   \text{ dvs. } x < 1
+		\end{cases}\]
+		\begin{align*}
+		& x \ge 1:~~ x-1 < 3 \Leftrightarrow x < 4\\
+		& x < 1:~~ -(x-1) < 3 \Leftrightarrow x > -2
+		\end{align*}
+		Kombinera sedan definitionsmängden för uttrycket och uttrycket.
+		\[-2 < x < 1 \text{ eller } 1 \le x < 4 \Leftrightarrow -2 < x < 4\]
+		\\
+		\textbf{Svar:} $-2 < x < 4$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~f) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x-1 \ge 0 \text{ dvs. } x \ge 1\\
+		-(x-1)& \text{då } x-1 < 0   \text{ dvs. } x < 1
+		\end{cases}\]
+		\begin{align*}
+		& x \ge 1:~~ x-1 \ge 3 \Leftrightarrow x \ge 4\\
+		& x < 1:~~ -(x-1) \ge 3 \Leftrightarrow x \le -2
+		\end{align*}
+		Kombinera sedan definitionsmängden för uttrycket och uttrycket.
+		\[x \ge 4 \text{ eller } x \le -2\]
+		\\
+		\textbf{Svar:} $x \ge 4$ eller $x \le -2$
 	\end{quotation}
 	
 	\texttt{\tskcol{5.16~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp.
+		\[|x|=
+		\begin{cases}
+		x& \text{då } x \ge 0 \\
+		-x& \text{då } x < 0
+		\end{cases}\]
+		\begin{align*}
+		& x \ge 0:~~ x \le 1 \\
+		& x < 0:~~ -x \le 1 \Leftrightarrow x \ge -1
+		\end{align*}
+		Kombinera sedan definitionsmängden för uttrycket och uttrycket.
+		\[-1 \le x < 0 \text{ eller } 0 \le x \le 1 \Leftrightarrow -1 \le x \le 1\]
+		$-1 \le x \le 1$ \\ \\
+		\begin{tikzpicture}
+		\draw[latex-latex] (-2.5,0) -- (2.5,0) ; %edit here for the axis
+		\foreach \x in  {-2,-1,0,1,2} % edit here for the vertical lines
+		\draw[shift={(\x,0)},color=black] (0pt,3pt) -- (0pt,-3pt);
+		\foreach \x in {-2,-1,0,1,2} % edit here for the numbers
+		\draw[shift={(\x,0)},color=black] (0pt,0pt) -- (0pt,-3pt) node[below] 
+		{$\x$};
+		\draw[*-*] (-1.08,0) -- (1.08,0);
+		\draw[very thick] (-1.08,0) -- (0.92,0);
+		\end{tikzpicture}
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		$x \le -2$ eller $x \ge 2$\\ \\
+		\begin{tikzpicture}
+		\draw[latex-latex] (-3.5,0) -- (3.5,0) ; %edit here for the axis
+		\foreach \x in  {-3,-2,-1,0,1,2,3} % edit here for the vertical lines
+		\draw[shift={(\x,0)},color=black] (0pt,3pt) -- (0pt,-3pt);
+		\foreach \x in {-3,-2,-1,0,1,2,3} % edit here for the numbers
+		\draw[shift={(\x,0)},color=black] (0pt,0pt) -- (0pt,-3pt) node[below] 
+		{$\x$};
+		\draw[*-*] (-2.08,0) -- (2.08,0);
+		\draw[very thick] (-3.4,0) -- (-2.08,0);
+		\draw[very thick] (2.08,0) -- (3.4,0);
+		\end{tikzpicture}
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		$-1 < x < 3$ \\ \\
+		\begin{tikzpicture}
+		\draw[latex-latex] (-2.5,0) -- (4.5,0) ; %edit here for the axis
+		\foreach \x in  {-2,-1,0,1,2,3,4} % edit here for the vertical lines
+		\draw[shift={(\x,0)},color=black] (0pt,3pt) -- (0pt,-3pt);
+		\foreach \x in {-2,-1,0,1,2,3,4} % edit here for the numbers
+		\draw[shift={(\x,0)},color=black] (0pt,0pt) -- (0pt,-3pt) node[below] 
+		{$\x$};
+		\draw[o-o] (-1.08,0) -- (3.08,0);
+		\draw[very thick] (-0.92,0) -- (2.92,0);
+		\end{tikzpicture}
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
+		$-3 < x < -1$ \\ \\
+		\begin{tikzpicture}
+		\draw[latex-latex] (-4.5,0) -- (0.5,0) ; %edit here for the axis
+		\foreach \x in  {-4,-3,-2,-1,0} % edit here for the vertical lines
+		\draw[shift={(\x,0)},color=black] (0pt,3pt) -- (0pt,-3pt);
+		\foreach \x in {-4,-3,-2,-1,0} % edit here for the numbers
+		\draw[shift={(\x,0)},color=black] (0pt,0pt) -- (0pt,-3pt) node[below] 
+		{$\x$};
+		\draw[o-o] (-3.08,0) -- (-0.92,0);
+		\draw[very thick] (-2.92,0) -- (-1.08,0);
+		\end{tikzpicture}
 		\\ \\
 		\textbf{Svar:}
 	\end{quotation}
