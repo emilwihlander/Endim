@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  17 APR 2016 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  23 APR 2016 02:14
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1502,327 +1502,333 @@ OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10  [] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OT1
 /cmr/m/n/10 1 \OMS/cmsy/m/n/10  [] ( []
  []
 
+[68 <./images/59a.png>] <images/59b.png, id=252, 529.22719pt x 534.49687pt>
+File: images/59b.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 3667--3670
+<use images/59b.png>
+Package pdftex.def Info: images/59b.png used on input line 3674.
+(pdftex.def)             Requested size: 105.84355pt x 106.89748pt.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3674--3677
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3681--3684
+Underfull \hbox (badness 10000) in paragraph at lines 3671--3678
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3688--3691
+Underfull \hbox (badness 10000) in paragraph at lines 3671--3678
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3695--3698
+Underfull \hbox (badness 10000) in paragraph at lines 3683--3691
 
  []
 
-[68 <./images/59a.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3704--3707
-
+[69 <./images/59b.png>]
+Overfull \hbox (40.81284pt too wide) detected at line 3698
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 x \OMS/c
+msy/m/n/10   \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OT1/cmr/
+m/n/10 (\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + 2\OML/cmm/m/it/10 x\OT1/cmr/m/n/
+10 ) + 1 = \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 ((\OML/cmm/m/it/10 x \OT1/cmr/m/n/
+10 + 1)[] \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 1[]) + 1 = \OMS/cmsy/m/n/10  \OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + 1)[] + 1 + 1 = 2 \OMS/cmsy/m/n
+/10   \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + 1)[]
  []
 
+<images/59c.png, id=257, 532.99126pt x 539.01375pt>
+File: images/59c.png Graphic file (type png)
+ <use images/59c.png>
+Package pdftex.def Info: images/59c.png used on input line 3701.
+(pdftex.def)             Requested size: 106.59636pt x 107.80083pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3711--3714
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3718--3721
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3725--3728
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3732--3735
+Underfull \hbox (badness 10000) in paragraph at lines 3698--3705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3739--3742
+Underfull \hbox (badness 10000) in paragraph at lines 3698--3705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3746--3749
+Underfull \hbox (badness 10000) in paragraph at lines 3712--3721
+
+ []
+
+[70 <./images/59c.png>]
+Overfull \hbox (54.96005pt too wide) detected at line 3731
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 x \OT1
+/cmr/m/n/10 + 1 = 2(\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + []\OML/cmm/m/it/10 x
+\OT1/cmr/m/n/10 ) + 1 = 2((\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + [])[] \OMS/cmsy
+/m/n/10   \OT1/cmr/m/n/10 ([])[]) + 1 = 2(\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + 
+[])[] \OMS/cmsy/m/n/10   [] \OT1/cmr/m/n/10 + 1 = 2(\OML/cmm/m/it/10 x \OT1/cmr
+/m/n/10 + [])[] + []
+ []
+
+<images/59d.png, id=262, 532.23843pt x 536.0025pt>
+File: images/59d.png Graphic file (type png)
+ <use images/59d.png>
+Package pdftex.def Info: images/59d.png used on input line 3734.
+(pdftex.def)             Requested size: 106.44579pt x 107.1986pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3731--3738
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3753--3756
+Underfull \hbox (badness 10000) in paragraph at lines 3731--3738
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3760--3763
-
- []
-
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 3767--3770
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3774--3777
-
+Overfull \hbox (119.75778pt too wide) detected at line 3741
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 x \OT1
+/cmr/m/n/10 + 1 = 0 \OMS/cmsy/m/n/10 , \OML/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + [
+]\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + [] = 0 \OMS/cmsy/m/n/10 , \OML/cmm/m/it/1
+0 x \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  []  [] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n
+/10  []  [] ( []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3781--3784
+Underfull \hbox (badness 10000) in paragraph at lines 3754--3758
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3788--3791
-
+[71 <./images/59d.png>]
+Overfull \hbox (16.53296pt too wide) detected at line 3776
+[] \OMS/cmsy/m/n/10 , [] , []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3795--3798
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3802--3805
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3809--3812
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3816--3819
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3823--3826
-
- []
-
-[70]
-Underfull \hbox (badness 10000) in paragraph at lines 3830--3833
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3837--3840
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3844--3847
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3851--3854
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3858--3861
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3865--3868
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3872--3875
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3879--3882
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3886--3889
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3893--3896
-
- []
-
-[71]
-Underfull \hbox (badness 10000) in paragraph at lines 3900--3903
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3907--3910
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3914--3917
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3921--3924
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3928--3931
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3935--3938
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3942--3945
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3949--3952
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3956--3959
-
- []
-
-[72]
-Underfull \hbox (badness 10000) in paragraph at lines 3963--3966
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3970--3973
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3977--3980
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3984--3987
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3991--3994
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3998--4001
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4005--4008
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4012--4015
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4019--4022
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4026--4029
-
- []
-
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 4035--4038
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4042--4045
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4049--4052
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4056--4059
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4063--4066
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4070--4073
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4077--4080
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4084--4087
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4091--4094
+[72] [73]
+Underfull \hbox (badness 10000) in paragraph at lines 3959--3962
 
  []
 
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 4098--4101
+Underfull \hbox (badness 10000) in paragraph at lines 3966--3969
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4105--4108
+Underfull \hbox (badness 10000) in paragraph at lines 3973--3976
 
  []
 
-[75] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 3980--3983
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3987--3990
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3994--3997
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4001--4004
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4008--4011
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4015--4018
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4022--4025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4029--4032
+
+ []
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 4036--4039
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4043--4046
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4050--4053
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4057--4060
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4064--4067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4071--4074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4078--4081
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4085--4088
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4092--4095
+
+ []
+
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 4099--4102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4106--4109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4113--4116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4120--4123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4127--4130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4134--4137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4141--4144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4148--4151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4155--4158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4162--4165
+
+ []
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 4169--4172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4176--4179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4183--4186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4190--4193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4199--4202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4206--4209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4213--4216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4220--4223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4227--4230
+
+ []
+
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 4234--4237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4241--4244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4248--4251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4255--4258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4262--4265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4269--4272
+
+ []
+
+[79] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
- 3061 strings out of 493634
- 38306 string characters out of 3135239
+ 3076 strings out of 493634
+ 38552 string characters out of 3135239
  113146 words of memory out of 3000000
- 6389 multiletter control sequences out of 15000+200000
+ 6401 multiletter control sequences out of 15000+200000
  17907 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,21n,26p,525b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1850,9 +1856,9 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
 Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxf
 ont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (75 pages, 487371 bytes).
+Output written on Endimensionell_analys.pdf (79 pages, 578893 bytes).
 PDF statistics:
- 599 PDF objects out of 1000 (max. 8388607)
+ 618 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
