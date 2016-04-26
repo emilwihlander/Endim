@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  23 APR 2016 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  26 APR 2016 02:01
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -1925,196 +1925,182 @@ Underfull \hbox (badness 10000) in paragraph at lines 4113--4125
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4129--4142
+Underfull \hbox (badness 10000) in paragraph at lines 4139--4153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4146--4158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4162--4176
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4162--4176
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4180--4183
+Underfull \hbox (badness 10000) in paragraph at lines 4139--4153
 
  []
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 4187--4190
+Underfull \hbox (badness 10000) in paragraph at lines 4169--4181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4194--4197
+Underfull \hbox (badness 10000) in paragraph at lines 4197--4211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4201--4204
+Underfull \hbox (badness 10000) in paragraph at lines 4197--4211
+
+ []
+
+[78] [79]
+Overfull \hbox (46.54268pt too wide) in paragraph at lines 4322--4322
+[] 
+ []
+
+<images/519a.png, id=296, 534.49687pt x 537.50812pt>
+File: images/519a.png Graphic file (type png)
+ <use images/519a.png>
+Package pdftex.def Info: images/519a.png used on input line 4330.
+(pdftex.def)             Requested size: 106.89748pt x 107.49971pt.
+
+<images/519b.png, id=297, 532.99126pt x 536.0025pt>
+File: images/519b.png Graphic file (type png)
+ <use images/519b.png>
+Package pdftex.def Info: images/519b.png used on input line 4337.
+(pdftex.def)             Requested size: 106.59636pt x 107.1986pt.
+
+<images/519c.png, id=298, 532.99126pt x 538.26094pt>
+File: images/519c.png Graphic file (type png)
+ <use images/519c.png>
+Package pdftex.def Info: images/519c.png used on input line 4344.
+(pdftex.def)             Requested size: 106.59636pt x 107.65027pt.
+
+<images/520a.png, id=299, 532.99126pt x 543.53062pt>
+File: images/520a.png Graphic file (type png)
+ <use images/520a.png>
+Package pdftex.def Info: images/520a.png used on input line 4351.
+(pdftex.def)             Requested size: 106.59636pt x 108.7042pt.
+
+[80 <./images/519a.png> <./images/519b.png> <./images/519c.png>]
+<images/520b.png, id=306, 533.74406pt x 538.26094pt>
+File: images/520b.png Graphic file (type png)
+ <use images/520b.png>
+Package pdftex.def Info: images/520b.png used on input line 4358.
+(pdftex.def)             Requested size: 106.74692pt x 107.65027pt.
+
+<images/520c.png, id=307, 534.49687pt x 537.50812pt>
+File: images/520c.png Graphic file (type png)
+ <use images/520c.png>
+Package pdftex.def Info: images/520c.png used on input line 4365.
+(pdftex.def)             Requested size: 106.89748pt x 107.49971pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4370--4373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4208--4211
+Underfull \hbox (badness 10000) in paragraph at lines 4377--4380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4215--4218
+Underfull \hbox (badness 10000) in paragraph at lines 4384--4387
+
+ []
+
+[81 <./images/520a.png> <./images/520b.png> <./images/520c.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 4391--4394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4222--4225
+Underfull \hbox (badness 10000) in paragraph at lines 4398--4401
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4229--4232
+Underfull \hbox (badness 10000) in paragraph at lines 4405--4408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4236--4239
+Underfull \hbox (badness 10000) in paragraph at lines 4412--4415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4243--4246
-
- []
-
-[78]
-Underfull \hbox (badness 10000) in paragraph at lines 4250--4253
+Underfull \hbox (badness 10000) in paragraph at lines 4419--4422
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4257--4260
+Underfull \hbox (badness 10000) in paragraph at lines 4426--4429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4264--4267
+Underfull \hbox (badness 10000) in paragraph at lines 4433--4436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4271--4274
+Underfull \hbox (badness 10000) in paragraph at lines 4442--4445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4278--4281
+Underfull \hbox (badness 10000) in paragraph at lines 4449--4452
+
+ []
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 4456--4459
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4285--4288
+Underfull \hbox (badness 10000) in paragraph at lines 4463--4466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4292--4295
+Underfull \hbox (badness 10000) in paragraph at lines 4470--4473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4299--4302
+Underfull \hbox (badness 10000) in paragraph at lines 4477--4480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4306--4309
-
- []
-
-[79]
-Underfull \hbox (badness 10000) in paragraph at lines 4313--4316
+Underfull \hbox (badness 10000) in paragraph at lines 4484--4487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4320--4323
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4327--4330
+Underfull \hbox (badness 10000) in paragraph at lines 4498--4501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4339
+Underfull \hbox (badness 10000) in paragraph at lines 4505--4508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4343--4346
+Underfull \hbox (badness 10000) in paragraph at lines 4512--4515
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4350--4353
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4357--4360
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4364--4367
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4371--4374
-
- []
-
-[80]
-Underfull \hbox (badness 10000) in paragraph at lines 4378--4381
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4385--4388
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4392--4395
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4399--4402
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4406--4409
-
- []
-
-[81] (Endimensionell_analys.aux) ) 
+[83] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
- 13469 strings out of 493634
- 266970 string characters out of 3135239
- 305355 words of memory out of 3000000
- 16585 multiletter control sequences out of 15000+200000
+ 13499 strings out of 493634
+ 267492 string characters out of 3135239
+ 305354 words of memory out of 3000000
+ 16609 multiletter control sequences out of 15000+200000
  17907 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,21n,54p,525b,607s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2142,9 +2128,9 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
 Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxf
 ont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (81 pages, 589246 bytes).
+Output written on Endimensionell_analys.pdf (83 pages, 719602 bytes).
 PDF statistics:
- 627 PDF objects out of 1000 (max. 8388607)
+ 645 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
