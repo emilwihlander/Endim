@@ -19,6 +19,12 @@
 \definecolor{tskcol}{RGB}{193,70,70}
 \newcommand{\tskcol}[1]{\textcolor{tskcol}{#1}}
 
+\newcommand\varpm{\mathbin{\vcenter{\hbox{%
+				\oalign{\hfil$\scriptstyle+$\hfil\cr
+					\noalign{\kern-.5ex}					
+					$\scriptscriptstyle({-})$\cr}%
+			}}}}
+
 \setlength{\parindent}{0in}
 
 \title{Endimensionell analys\\ HT-2015} 
@@ -4365,74 +4371,203 @@
 		\includegraphics[scale=0.2]{images/520c.png}
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{5.21~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp (hoppat över ett steg för att det ska vara mer lättläst).
+		\[|x+1|=
+		\begin{cases}
+		x+1&    \text{då } x \ge -1\\
+		-(x+1)& \text{då } x < -1
+		\end{cases}~~~~~~
+		|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x \ge 1\\
+		-(x-1)& \text{då } x < 1
+		\end{cases}\]
+		Slå samman båda till ett gemensamt uttryck.
+		\[|x+1|+|x-1|=
+		\begin{cases}
+		x+1+x-1&    \text{då } x \ge 1\\
+		x+1-(x-1)& \text{då } -1 \le x < 1 \\
+		-(x+1)-(x-1)& \text{då } x < -1 
+		\end{cases}\]
+		\begin{align*}
+		     x \ge 1:&~~ x+1+x-1 = 4 \Leftrightarrow 2x=4 \Leftrightarrow x=2\\
+		-1 \le x < 1:&~~ x+1-(x-1) = 4 \Leftrightarrow 2 \neq 4 \Rightarrow \text{ ingen lösning}\\
+		      x < -1:&~~ -(x+1)-(x-1) = 4 \Leftrightarrow -2x = 4 \Leftrightarrow x = -2
+		\end{align*}
+		\\
+		\textbf{Svar:} $x=2$ eller $x=-2$
 	\end{quotation}
 	
 	\texttt{\tskcol{5.22~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp (hoppat över ett steg för att det ska vara mer lättläst).
+		\[|x+1|=
+		\begin{cases}
+		x+1&    \text{då } x \ge -1\\
+		-(x+1)& \text{då } x < -1
+		\end{cases}~~~~~~
+		|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x \ge 1\\
+		-(x-1)& \text{då } x < 1
+		\end{cases}\]
+		Slå samman båda till ett gemensamt uttryck.
+		\[|x+1|-|x-1|=
+		\begin{cases}
+		x+1-(x-1)&    \text{då } x \ge 1\\
+		x+1+(x-1)& \text{då } -1 \le x < 1 \\
+		-(x+1)+(x-1)& \text{då } x < -1 
+		\end{cases}\]
+		\begin{align*}
+		     x \ge 1:&~~ x+1-(x-1) = 1 \Leftrightarrow 2 \neq 1 \Rightarrow \text{ ingen lösning}\\
+		-1 \le x < 1:&~~ x+1+(x-1) = 1 \Leftrightarrow 2x = 1 \Leftrightarrow x = \frac{1}{2}\\
+		      x < -1:&~~ -(x+1)+(x-1) = 1 \Leftrightarrow -2 \neq 1 \Rightarrow \text{ ingen lösning}
+		\end{align*}
+		\\
+		\textbf{Svar:} $x = \frac{1}{2}$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd resonemanget från uppgift \texttt{\tskcol{a)}} för intervallen.
+		\begin{align*}
+		     x \ge 1:&~~ x+1-(x-1) = 3 \Leftrightarrow 2 \neq 3 \Rightarrow \text{ ingen lösning}\\
+		-1 \le x < 1:&~~ x+1+(x-1) = 3 \Leftrightarrow 2x = 3 \Leftrightarrow x = \frac{3}{2} \not< 1 \Rightarrow\text{falsk lösning}\\
+		      x < -1:&~~ -(x+1)+(x-1) = 3 \Leftrightarrow -2 \neq 3 \Rightarrow \text{ ingen lösning}
+		\end{align*}
+		\\
+		\textbf{Svar:} saknar lösning
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd resonemanget från uppgift \texttt{\tskcol{a)}} för intervallen.
+		\begin{align*}
+		x \ge 1:&~~ x+1-(x-1) = -2 \Leftrightarrow 2 \neq -2 \Rightarrow \text{ ingen lösning}\\
+		-1 \le x < 1:&~~ x+1+(x-1) = -2 \Leftrightarrow 2x = -2 \Leftrightarrow x = -1\\
+		x < -1:&~~ -(x+1)+(x-1) = -2 \Leftrightarrow -2 = -2 \Rightarrow \text{ alla lösningar}
+		\end{align*}
+		\[x < -1 \text{ eller } x=-1 \Leftrightarrow x \le -1\]
+		\\
+		\textbf{Svar:} $x \le -1$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Under $-2$ är $y=-2$, mellan $-2$ och $2$ är $y=2x$ och efter $2$ är $y=2$. \\
+		\includegraphics[scale=0.2]{images/522d.png}
 	\end{quotation}
 	
 	\texttt{\tskcol{5.23~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd definitionen av absolutbelopp (hoppat över ett steg för att det ska vara mer lättläst).
+		\[|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x \ge 1\\
+		-(x-1)& \text{då } x < 1
+		\end{cases}~~~~~~
+		|x-2|=
+		\begin{cases}
+		x-2&    \text{då } x \ge 2\\
+		-(x-2)& \text{då } x < 2
+		\end{cases}\]
+		Slå samman båda till ett gemensamt uttryck.
+		\[|x-1|+|x-2|=
+		\begin{cases}
+		x-1+x-2&    \text{då } x \ge 2\\
+		x-1-(x-2)& \text{då } 1 \le x < 2 \\
+		-(x-1)-(x-2)& \text{då } x < 1 
+		\end{cases}\]
+		\begin{align*}
+		    x \ge 2:&~~      x-1+x-2 = 2 \Leftrightarrow x = \frac{5}{2}\\
+		1 \le x < 2:&~~    x-1-(x-2) = 2 \Leftrightarrow 1 \neq 2 \Rightarrow \text{ ingen lösning}\\
+		      x < 1:&~~ -(x-1)-(x-2) = 2 \Leftrightarrow x = \frac{1}{2}
+		\end{align*}
+		\\
+		\textbf{Svar:} $x = \frac{1}{2}$ eller $x = \frac{5}{2}$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd resonemanget från uppgift \texttt{\tskcol{a)}} för intervallen.
+		\begin{align*}
+		    x \ge 2:&~~      x-1+x-2 = \frac{1}{2} \Leftrightarrow x = \frac{7}{4} \not\ge 2  \Rightarrow\text{falsk lösning}\\
+		1 \le x < 2:&~~    x-1-(x-2) = \frac{1}{2} \Leftrightarrow 1 \neq \frac{1}{2} \Rightarrow \text{ ingen lösning}\\
+		      x < 1:&~~ -(x-1)-(x-2) = \frac{1}{2} \Leftrightarrow x = \frac{5}{2} \not< 1  \Rightarrow\text{falsk lösning}
+		\end{align*}
+		\\
+		\textbf{Svar:} saknar lösning
 	\end{quotation}
 	
 	\texttt{\tskcol{5.24~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Använd definitionen av absolutbelopp (hoppat över ett steg för att det ska vara mer lättläst).
+		\[|x-1|=
+		\begin{cases}
+		x-1&    \text{då } x \ge 1\\
+		-(x-1)& \text{då } x < 1
+		\end{cases}~~~~~~
+		|x-2|=
+		\begin{cases}
+		x-2&    \text{då } x \ge 2\\
+		-(x-2)& \text{då } x < 2
+		\end{cases}\]
+		Slå samman båda till ett gemensamt uttryck.
+		\[|x-1|+2|x-2|=
+		\begin{cases}
+		x-1+2(x-2)&    \text{då } x \ge 2\\
+		x-1-2(x-2)& \text{då } 1 \le x < 2 \\
+		-(x-1)-2(x-2)& \text{då } x < 1 
+		\end{cases}\]
+		För att lösa uppgiften behöver vi veta värdemängden för varje uttryck och eftersom de är linjär kommer det endast finnas ett värde på $x$ för varje värde på $a$ och ändarna kommer alltid vara minsta respektive största värdet.
 		\\ \\
-		\textbf{Svar:}
+		Värdemängden för första uttrycket ges av $x = 2 \Rightarrow a = 1$ och $x \rightarrow \infty \Rightarrow a \rightarrow \infty$.  
+		\\ \\
+		Värdemängden för andra uttrycket ges av $x = 1 \Rightarrow a = 2$ och $x \rightarrow 2 \Rightarrow a \rightarrow 1$.  
+		\\ \\
+		Värdemängden för tredje uttrycket ges av $x \rightarrow -\infty \Rightarrow a \rightarrow \infty$ och $x \rightarrow 1 \Rightarrow a \rightarrow 2$.  
+		\\ \\
+		För alla $a$ större än 1 kommer det alltså finnas två lösningar.
+		\\ \\
+		\textbf{Svar:} $a > 1$
 	\end{quotation}
 	
 	\texttt{\tskcol{5.25~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Utnyttja faktumen att $\sqrt{a^2}=|a|$, att $|a| = -a$ eftersom $a < 0$ och att $a^2+b^2 >= 0$ oberoende av värden på $a$ och $b$.
+		\begin{align*}
+		&\sqrt{a^6+2a^4b^2+a^2b^4}=
+		\sqrt{a^2}\sqrt{a^4+2a^2b^2+b^4}=
+		|a|\sqrt{(a^2+b^2)^2}= \\ =
+		&-a|a^2+b^2|=
+		-a(a^2+b^2)
+		\end{align*}
+		\\
+		\textbf{Svar:} $-a(a^2+b^2)$
 	\end{quotation}
 	
 	\texttt{\tskcol{5.26~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Avståndet mellan punkterna i $x$-led kan skrivas som $|x_2-x_1|$ och i $y$-led som $|y_2-y_1|$. Eftersom $x$- och $y$-axeln är vinkelräta mot varandra kan en vinkelrät triangel ritas upp där avståndet mellan punkterna är hypotenusan och avståndet i $x$- respektive $y$-led är kateterna. Pyth. sats säger då att: 
+		\begin{align*}
+		&d^2=|x_2-x_1|^2+|y_2-y_1|^2 \Leftrightarrow
+		d=\varpm\sqrt{|x_2-x_1|^2+|y_2-y_1|^2} \Leftrightarrow \\ \Leftrightarrow
+		&d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} \text{ V.S.V.}
+		\end{align*}
 	\end{quotation}
 	
 	\subsection*{Cirkeln, ellipsen och hyperbeln}
