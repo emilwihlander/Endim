@@ -17,5 +17,6 @@ Hittills är de fem första kapitlen färdiga (28/4/16)
 - [ ] kapitel 13
 - [ ] kapitel 14
 - [ ] kapitel 15
+
 # Framtida projekt
 Efter att jag är färdig med "Övningar i Endimensionell analys" tänkte jag göra samma sak för boken "Inledande geometri för högskolestudier"
