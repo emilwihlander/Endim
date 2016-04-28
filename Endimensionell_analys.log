@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  27 APR 2016 04:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  28 APR 2016 02:02
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -2024,66 +2024,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 4533--4545
  []
 
 [84]
-Underfull \hbox (badness 10000) in paragraph at lines 4577--4580
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4584--4587
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4591--4594
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4598--4601
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4605--4608
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4612--4615
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4619--4622
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4626--4629
+Underfull \hbox (badness 10000) in paragraph at lines 4585--4589
 
  []
 
 [85]
-Underfull \hbox (badness 10000) in paragraph at lines 4633--4636
+Underfull \hbox (badness 10000) in paragraph at lines 4624--4628
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4640--4643
+Underfull \hbox (badness 10000) in paragraph at lines 4642--4646
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4647--4650
+Underfull \hbox (badness 10000) in paragraph at lines 4655--4659
 
  []
 
-[86] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 4665--4669
+
+ []
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 4679--4683
+
+ []
+
+<images/531a.png, id=333, 539.76656pt x 544.28343pt>
+File: images/531a.png Graphic file (type png)
+ <use images/531a.png>
+Package pdftex.def Info: images/531a.png used on input line 4690.
+(pdftex.def)             Requested size: 107.9514pt x 108.85475pt.
+
+<images/531b.png, id=334, 534.49687pt x 540.51938pt>
+File: images/531b.png Graphic file (type png)
+ <use images/531b.png>
+Package pdftex.def Info: images/531b.png used on input line 4705.
+(pdftex.def)             Requested size: 106.89748pt x 108.10196pt.
+
+[87 <./images/531a.png> <./images/531b.png>]
+<images/531c.png, id=340, 534.49687pt x 541.27219pt>
+File: images/531c.png Graphic file (type png)
+ <use images/531c.png>
+Package pdftex.def Info: images/531c.png used on input line 4721.
+(pdftex.def)             Requested size: 106.89748pt x 108.25252pt.
+
+<images/531d.png, id=341, 536.0025pt x 542.025pt>
+File: images/531d.png Graphic file (type png)
+ <use images/531d.png>
+Package pdftex.def Info: images/531d.png used on input line 4734.
+(pdftex.def)             Requested size: 107.1986pt x 108.40308pt.
+
+[88 <./images/531c.png> <./images/531d.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 4762--4766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4770--4774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4799--4803
+
+ []
+
+[89] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
- 13505 strings out of 493634
- 267584 string characters out of 3135239
+ 13525 strings out of 493634
+ 267932 string characters out of 3135239
  305394 words of memory out of 3000000
- 16614 multiletter control sequences out of 15000+200000
+ 16630 multiletter control sequences out of 15000+200000
  17907 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,21n,54p,525b,607s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2112,9 +2127,9 @@ Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
 sfonts/latxfont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (86 pages, 754069 bytes).
+Output written on Endimensionell_analys.pdf (89 pages, 873456 bytes).
 PDF statistics:
- 661 PDF objects out of 1000 (max. 8388607)
+ 688 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
