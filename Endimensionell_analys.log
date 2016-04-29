@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  28 APR 2016 04:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  29 APR 2016 03:07
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -2143,353 +2143,190 @@ Underfull \hbox (badness 10000) in paragraph at lines 4921--4924
 
  []
 
-[92] [93] [94]
-Underfull \hbox (badness 10000) in paragraph at lines 5183--5186
+[92] [93] [94] [95] <images/69.PNG, id=371, 534.49687pt x 540.51938pt>
+File: images/69.PNG Graphic file (type png)
+
+<use images/69.PNG>
+Package pdftex.def Info: images/69.PNG used on input line 5248.
+(pdftex.def)             Requested size: 106.89748pt x 108.10196pt.
+ <images/610a.PNG, id=372, 533.74406pt x 541.27219pt>
+File: images/610a.PNG Graphic file (type png)
+
+<use images/610a.PNG>
+Package pdftex.def Info: images/610a.PNG used on input line 5255.
+(pdftex.def)             Requested size: 106.74692pt x 108.25252pt.
+ <images/610b.PNG, id=373, 535.2497pt x 544.28343pt>
+File: images/610b.PNG Graphic file (type png)
+
+<use images/610b.PNG>
+Package pdftex.def Info: images/610b.PNG used on input line 5262.
+(pdftex.def)             Requested size: 107.04803pt x 108.85475pt.
+ <images/610c.PNG, id=374, 536.0025pt x 539.01375pt>
+File: images/610c.PNG Graphic file (type png)
+
+<use images/610c.PNG>
+Package pdftex.def Info: images/610c.PNG used on input line 5269.
+(pdftex.def)             Requested size: 107.1986pt x 107.80083pt.
+ [96 <./images/69.PNG> <./images/610a.PNG> <./images/610b.PNG>] <images/610d.PN
+G, id=381, 535.2497pt x 541.27219pt>
+File: images/610d.PNG Graphic file (type png)
+
+<use images/610d.PNG>
+Package pdftex.def Info: images/610d.PNG used on input line 5280.
+(pdftex.def)             Requested size: 107.04803pt x 108.25252pt.
+ <images/610e.PNG, id=382, 534.49687pt x 539.01375pt>
+File: images/610e.PNG Graphic file (type png)
+
+<use images/610e.PNG>
+Package pdftex.def Info: images/610e.PNG used on input line 5291.
+(pdftex.def)             Requested size: 106.89748pt x 107.80083pt.
+ [97 <./images/610c.PNG> <./images/610d.PNG> <./images/610e.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 5297--5301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5190--5193
+Overfull \hbox (7.70164pt too wide) detected at line 5304
+\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 z \OT1/cmr/m/n/10 + 2\OMS/cmsy/m/n/10 j \OT1
+/cmr/m/n/10 = 1 \OMS/cmsy/m/n/10 , j\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x \OT1/cm
+r/m/n/10 + 2) + \OML/cmm/m/it/10 yi\OMS/cmsy/m/n/10 j \OT1/cmr/m/n/10 = 1 \OMS/
+cmsy/m/n/10 , [] \OT1/cmr/m/n/10 = 1 \OMS/cmsy/m/n/10 , \OT1/cmr/m/n/10 (\OML/c
+mm/m/it/10 x \OT1/cmr/m/n/10 + 2)[] + \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 = 1
+ []
+
+<images/611.PNG, id=390, 535.2497pt x 539.76656pt>
+File: images/611.PNG Graphic file (type png)
+ <use images/611.PNG>
+Package pdftex.def Info: images/611.PNG used on input line 5306.
+(pdftex.def)             Requested size: 107.04803pt x 107.9514pt.
+
+<images/612a.PNG, id=391, 534.49687pt x 538.26094pt>
+File: images/612a.PNG Graphic file (type png)
+ <use images/612a.PNG>
+Package pdftex.def Info: images/612a.PNG used on input line 5317.
+(pdftex.def)             Requested size: 106.89748pt x 107.65027pt.
+
+[98 <./images/611.PNG> <./images/612a.PNG>]
+<images/612b.PNG, id=397, 536.0025pt x 539.01375pt>
+File: images/612b.PNG Graphic file (type png)
+ <use images/612b.PNG>
+Package pdftex.def Info: images/612b.PNG used on input line 5329.
+(pdftex.def)             Requested size: 107.1986pt x 107.80083pt.
+
+Overfull \hbox (12.18777pt too wide) detected at line 5339
+\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 z \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 2\OMS/c
+msy/m/n/10 j \OT1/cmr/m/n/10 = 1 \OMS/cmsy/m/n/10 , j\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 x \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 2) + \OML/cmm/m/it/10 yi\OMS/cmsy/
+m/n/10 j \OT1/cmr/m/n/10 = 1 \OMS/cmsy/m/n/10 , [] \OT1/cmr/m/n/10 = 1 \OMS/cms
+y/m/n/10 , \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10   \OT1/cmr/m/n/
+10 2)[] + \OML/cmm/m/it/10 y[] \OT1/cmr/m/n/10 = 1
+ []
+
+<images/612c.PNG, id=398, 536.75531pt x 541.27219pt>
+File: images/612c.PNG Graphic file (type png)
+ <use images/612c.PNG>
+Package pdftex.def Info: images/612c.PNG used on input line 5341.
+(pdftex.def)             Requested size: 107.34915pt x 108.25252pt.
+
+<images/612d.PNG, id=399, 536.75531pt x 539.76656pt>
+File: images/612d.PNG Graphic file (type png)
+ <use images/612d.PNG>
+Package pdftex.def Info: images/612d.PNG used on input line 5355.
+(pdftex.def)             Requested size: 107.34915pt x 107.9514pt.
+
+<images/612e.PNG, id=400, 536.75531pt x 539.76656pt>
+File: images/612e.PNG Graphic file (type png)
+ <use images/612e.PNG>
+Package pdftex.def Info: images/612e.PNG used on input line 5368.
+(pdftex.def)             Requested size: 107.34915pt x 107.9514pt.
+
+[99 <./images/612b.PNG> <./images/612c.PNG> <./images/612d.PNG>]
+<images/612f.PNG, id=407, 538.26094pt x 543.53062pt>
+File: images/612f.PNG Graphic file (type png)
+ <use images/612f.PNG>
+Package pdftex.def Info: images/612f.PNG used on input line 5381.
+(pdftex.def)             Requested size: 107.65027pt x 108.7042pt.
+
+<images/612g.PNG, id=408, 535.2497pt x 539.76656pt>
+File: images/612g.PNG Graphic file (type png)
+ <use images/612g.PNG>
+Package pdftex.def Info: images/612g.PNG used on input line 5395.
+(pdftex.def)             Requested size: 107.04803pt x 107.9514pt.
+
+[100 <./images/612e.PNG> <./images/612f.PNG> <./images/612g.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 5432--5436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5197--5200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5204--5207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5211--5214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5218--5221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5225--5228
-
- []
-
-[95]
-Underfull \hbox (badness 10000) in paragraph at lines 5232--5235
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5239--5242
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5246--5249
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5253--5256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5260--5263
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5267--5270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5274--5277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5281--5284
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5288--5291
-
- []
-
-[96]
-Underfull \hbox (badness 10000) in paragraph at lines 5295--5298
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5302--5305
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5309--5312
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5316--5319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5323--5326
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5330--5333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5339--5342
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5346--5349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5353--5356
-
- []
-
-[97]
-Underfull \hbox (badness 10000) in paragraph at lines 5360--5363
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5367--5370
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5374--5377
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5381--5384
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5388--5391
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5395--5398
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5402--5405
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5409--5412
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5416--5419
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5423--5426
-
- []
-
-[98]
-Underfull \hbox (badness 10000) in paragraph at lines 5430--5433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5437--5440
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5444--5447
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5451--5454
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5458--5461
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5465--5468
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5472--5475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5479--5482
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5486--5489
-
- []
-
-[99]
-Underfull \hbox (badness 10000) in paragraph at lines 5493--5496
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5500--5503
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5507--5510
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5514--5517
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5521--5524
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5528--5531
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5535--5538
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5542--5545
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5549--5552
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5556--5559
-
- []
-
-[100]
-Underfull \hbox (badness 10000) in paragraph at lines 5563--5566
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5570--5573
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5577--5580
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5584--5587
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5591--5594
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5598--5601
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5605--5608
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5612--5615
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5619--5622
+Underfull \hbox (badness 10000) in paragraph at lines 5452--5456
 
  []
 
 [101]
-Underfull \hbox (badness 10000) in paragraph at lines 5626--5629
+Underfull \hbox (badness 10000) in paragraph at lines 5474--5478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5633--5636
+Underfull \hbox (badness 10000) in paragraph at lines 5501--5506
+
+ []
+
+[102] [103] <images/619a.PNG, id=425, 536.75531pt x 539.76656pt>
+File: images/619a.PNG Graphic file (type png)
+
+<use images/619a.PNG>
+Package pdftex.def Info: images/619a.PNG used on input line 5586.
+(pdftex.def)             Requested size: 107.34915pt x 107.9514pt.
+ <images/619b.PNG, id=426, 537.50812pt x 544.28343pt>
+File: images/619b.PNG Graphic file (type png)
+
+<use images/619b.PNG>
+Package pdftex.def Info: images/619b.PNG used on input line 5595.
+(pdftex.def)             Requested size: 107.49971pt x 108.85475pt.
+ <images/619c.PNG, id=427, 535.2497pt x 539.01375pt>
+File: images/619c.PNG Graphic file (type png)
+
+<use images/619c.PNG>
+Package pdftex.def Info: images/619c.PNG used on input line 5604.
+(pdftex.def)             Requested size: 107.04803pt x 107.80083pt.
+ [104 <./images/619a.PNG> <./images/619b.PNG> <./images/619c.PNG>] <images/619d
+.PNG, id=434, 537.50812pt x 545.03625pt>
+File: images/619d.PNG Graphic file (type png)
+
+<use images/619d.PNG>
+Package pdftex.def Info: images/619d.PNG used on input line 5617.
+(pdftex.def)             Requested size: 107.49971pt x 109.00531pt.
+ <images/619e.PNG, id=435, 536.75531pt x 540.51938pt>
+File: images/619e.PNG Graphic file (type png)
+
+<use images/619e.PNG>
+Package pdftex.def Info: images/619e.PNG used on input line 5629.
+(pdftex.def)             Requested size: 107.34915pt x 108.10196pt.
+ [105 <./images/619d.PNG> <./images/619e.PNG>]
+<images/619f.PNG, id=441, 536.75531pt x 542.025pt>
+File: images/619f.PNG Graphic file (type png)
+ <use images/619f.PNG>
+Package pdftex.def Info: images/619f.PNG used on input line 5642.
+(pdftex.def)             Requested size: 107.34915pt x 108.40308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5649--5652
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5640--5643
+Underfull \hbox (badness 10000) in paragraph at lines 5656--5659
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5647--5650
+Underfull \hbox (badness 10000) in paragraph at lines 5663--5666
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5654--5657
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5661--5664
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5668--5671
+Underfull \hbox (badness 10000) in paragraph at lines 5670--5673
 
  []
 
@@ -2503,12 +2340,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5684--5687
 
  []
 
-[102]
+
 Underfull \hbox (badness 10000) in paragraph at lines 5691--5694
 
  []
 
-
+[106 <./images/619f.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 5698--5701
 
  []
@@ -2553,12 +2390,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5754--5757
 
  []
 
-[103]
+
 Underfull \hbox (badness 10000) in paragraph at lines 5761--5764
 
  []
 
-
+[107]
 Underfull \hbox (badness 10000) in paragraph at lines 5768--5771
 
  []
@@ -2598,12 +2435,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5817--5820
 
  []
 
-[104]
+
 Underfull \hbox (badness 10000) in paragraph at lines 5824--5827
 
  []
 
-
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 5831--5834
 
  []
@@ -2648,8 +2485,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 5887--5890
 
  []
 
-[105]
-Underfull \hbox (badness 10000) in paragraph at lines 5894--5897
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 5896--5899
 
  []
 
@@ -2693,7 +2530,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5952--5955
 
  []
 
-[106]
+
 Underfull \hbox (badness 10000) in paragraph at lines 5959--5962
 
  []
@@ -2703,7 +2540,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5966--5969
 
  []
 
-
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 5973--5976
 
  []
@@ -2738,7 +2575,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6015--6018
 
  []
 
-[107]
+
 Underfull \hbox (badness 10000) in paragraph at lines 6022--6025
 
  []
@@ -2748,7 +2585,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6029--6032
 
  []
 
-
+[111]
 Underfull \hbox (badness 10000) in paragraph at lines 6036--6039
 
  []
@@ -2773,12 +2610,167 @@ Underfull \hbox (badness 10000) in paragraph at lines 6064--6067
 
  []
 
-[108] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 6071--6074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6078--6081
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6085--6088
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6092--6095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6099--6102
+
+ []
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 6106--6109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6113--6116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6122--6125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6129--6132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6136--6139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6143--6146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6150--6153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6157--6160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6164--6167
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 6171--6174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6178--6181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6185--6188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6192--6195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6199--6202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6206--6209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6213--6216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6220--6223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6227--6230
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 6234--6237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6241--6244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6248--6251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6255--6258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6262--6265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6269--6272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6276--6279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6283--6286
+
+ []
+
+[115] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
- 13531 strings out of 493634
- 268013 string characters out of 3135239
+ 13631 strings out of 493634
+ 269738 string characters out of 3135239
  305394 words of memory out of 3000000
- 16634 multiletter control sequences out of 15000+200000
+ 16714 multiletter control sequences out of 15000+200000
  17907 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,21n,54p,525b,607s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2807,9 +2799,9 @@ l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/emilw
 msy7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/latxfont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (108 pages, 913741 bytes).
+Output written on Endimensionell_analys.pdf (115 pages, 1313670 bytes).
 PDF statistics:
- 752 PDF objects out of 1000 (max. 8388607)
+ 824 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
