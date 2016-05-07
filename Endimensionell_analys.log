@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  29 APR 2016 03:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.21)  7 MAY 2016 23:54
 entering extended mode
 **./Endimensionell_analys.tex
 (Endimensionell_analys.tex
@@ -2311,91 +2311,12 @@ File: images/619f.PNG Graphic file (type png)
 Package pdftex.def Info: images/619f.PNG used on input line 5642.
 (pdftex.def)             Requested size: 107.34915pt x 108.40308pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5649--5652
+[106 <./images/619f.PNG>] [107]
+Underfull \hbox (badness 10000) in paragraph at lines 5760--5764
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5656--5659
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5663--5666
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5670--5673
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5677--5680
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5684--5687
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5691--5694
-
- []
-
-[106 <./images/619f.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 5698--5701
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5705--5708
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5712--5715
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5719--5722
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5726--5729
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5733--5736
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5740--5743
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5747--5750
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5754--5757
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5761--5764
-
- []
-
-[107]
 Underfull \hbox (badness 10000) in paragraph at lines 5768--5771
 
  []
@@ -2430,7 +2351,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5810--5813
 
  []
 
-
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 5817--5820
 
  []
@@ -2440,7 +2361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5824--5827
 
  []
 
-[108]
+
 Underfull \hbox (badness 10000) in paragraph at lines 5831--5834
 
  []
@@ -2475,7 +2396,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5873--5876
 
  []
 
-
+[109]
 Underfull \hbox (badness 10000) in paragraph at lines 5880--5883
 
  []
@@ -2485,47 +2406,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 5887--5890
 
  []
 
-[109]
-Underfull \hbox (badness 10000) in paragraph at lines 5896--5899
+
+Underfull \hbox (badness 10000) in paragraph at lines 5894--5897
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5903--5906
+Underfull \hbox (badness 10000) in paragraph at lines 5901--5904
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5910--5913
+Underfull \hbox (badness 10000) in paragraph at lines 5908--5911
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5917--5920
+Underfull \hbox (badness 10000) in paragraph at lines 5915--5918
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5924--5927
+Underfull \hbox (badness 10000) in paragraph at lines 5922--5925
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5931--5934
+Underfull \hbox (badness 10000) in paragraph at lines 5929--5932
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5938--5941
+Underfull \hbox (badness 10000) in paragraph at lines 5936--5939
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5945--5948
+Underfull \hbox (badness 10000) in paragraph at lines 5943--5946
 
  []
 
-
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 5952--5955
 
  []
@@ -2540,7 +2461,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5966--5969
 
  []
 
-[110]
+
 Underfull \hbox (badness 10000) in paragraph at lines 5973--5976
 
  []
@@ -2570,7 +2491,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6008--6011
 
  []
 
-
+[111]
 Underfull \hbox (badness 10000) in paragraph at lines 6015--6018
 
  []
@@ -2585,7 +2506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6029--6032
 
  []
 
-[111]
+
 Underfull \hbox (badness 10000) in paragraph at lines 6036--6039
 
  []
@@ -2615,7 +2536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6071--6074
 
  []
 
-
+[112]
 Underfull \hbox (badness 10000) in paragraph at lines 6078--6081
 
  []
@@ -2635,7 +2556,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6099--6102
 
  []
 
-[112]
+
 Underfull \hbox (badness 10000) in paragraph at lines 6106--6109
 
  []
@@ -2646,42 +2567,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 6113--6116
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6122--6125
+Underfull \hbox (badness 10000) in paragraph at lines 6120--6123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6129--6132
+Underfull \hbox (badness 10000) in paragraph at lines 6127--6130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6136--6139
+Underfull \hbox (badness 10000) in paragraph at lines 6134--6137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6143--6146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6150--6153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6157--6160
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6164--6167
+Underfull \hbox (badness 10000) in paragraph at lines 6141--6144
 
  []
 
 [113]
-Underfull \hbox (badness 10000) in paragraph at lines 6171--6174
+Underfull \hbox (badness 10000) in paragraph at lines 6148--6151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6155--6158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6162--6165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6169--6172
 
  []
 
@@ -2710,7 +2631,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6206--6209
 
  []
 
-
+[114]
 Underfull \hbox (badness 10000) in paragraph at lines 6213--6216
 
  []
@@ -2725,7 +2646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6227--6230
 
  []
 
-[114]
+
 Underfull \hbox (badness 10000) in paragraph at lines 6234--6237
 
  []
@@ -2755,7 +2676,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6269--6272
 
  []
 
-
+[115]
 Underfull \hbox (badness 10000) in paragraph at lines 6276--6279
 
  []
@@ -2765,43 +2686,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 6283--6286
 
  []
 
-[115] (Endimensionell_analys.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 6290--6293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6297--6300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6304--6307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6311--6314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6318--6321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6325--6328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6332--6335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6339--6342
+
+ []
+
+[116] [117] (Endimensionell_analys.aux) ) 
 Here is how much of TeX's memory you used:
  13631 strings out of 493634
  269738 string characters out of 3135239
- 305394 words of memory out of 3000000
+ 305395 words of memory out of 3000000
  16714 multiletter control sequences out of 15000+200000
  17907 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,21n,54p,525b,607s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fo
-nts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\emilw\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\emilw\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\emi
-lw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:
-\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx12
-00.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\ecbx1440.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecrm1000.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Users/emilw/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/emilw/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Use
-rs/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5
-.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/emilw/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/emilw/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/emilw
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:
-/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/latxfont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Endimensionell_analys.pdf (115 pages, 1313670 bytes).
+ <C:\Users\emilw\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\emilw\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\emilw\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Use
+rs\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.p
+k> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbx1200.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1440.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\emilw\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\emilw\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Users/emilw/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/emil
+w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi5.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/emilw/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/emilw/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.p
+fb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy7.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/latxfont/line10.pfb><C:/Users/emilw/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Endimensionell_analys.pdf (117 pages, 1321862 bytes).
 PDF statistics:
- 824 PDF objects out of 1000 (max. 8388607)
+ 831 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
