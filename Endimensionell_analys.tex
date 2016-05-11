@@ -12,6 +12,7 @@
 \usepackage{cancel}
 \usepackage{graphicx}
 \usepackage{tikz}
+\usepackage{mathtools}
 
 \usetikzlibrary{arrows}
 
@@ -5766,183 +5767,329 @@
 	\texttt{\tskcol{6.23~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		låt $z=ke^{i\pi/3}$.
+		\[z^{2000}=
+		(ke^{i\pi/3})^{2000}=
+		k^{2000}e^{i2000\pi/3}\]
+		Skriv om argumentet i formen $x\pi+n2\pi$ så man kan bryta ut perioden. Eftersom $x\pi+n2\pi=x\pi$ så är det $x$ som är intressant
+		\[\frac{2000\pi}{3}=
+		\frac{2}{3}\pi+\frac{1998}{3}\pi=
+		\frac{2}{3}\pi+666\pi=
+		\frac{2}{3}\pi+333*2\pi=x\pi+n2\pi\]
+		\[x=\frac{2}{3},~~~~ n=333\]
+		$\arg z^{2000}= \frac{2}{3}\pi,~~~~0\le \arg z^{2000} \le 2\pi$
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $\frac{2}{3}\pi$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.24~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Då argumentet är det enda som är intressant kan alla faktorer skrivas ihop som $k$.
+		\begin{align*}
+		&\frac{1+i\sqrt{3}}{(2-2i)^3}=
+		\frac{2(\frac{1}{2}+i\frac{\sqrt{3}}{2})}{(2\sqrt{2}(\frac{1}{\sqrt{2}}-\frac{1}{\sqrt{2}}i))^3}=
+		k\frac{\cos\frac{\pi}{3}+i\sin\frac{\pi}{3}}{(\cos-\frac{\pi}{4}+i\sin-\frac{\pi}{4})^3}= \\ =
+		&k\frac{e^{i\pi/3}}{e^{-i3\pi/4}}=
+		ke^{i\pi/3-(-i3\pi/4)}=
+		ke^{i13\pi/12}
+		\end{align*}
+		\[\arg z = \frac{13}{12}\pi+n2\pi, ~~ n\in\mathbb{Z}\]
+		\\
+		\textbf{Svar:} $\frac{13}{12}\pi+n2\pi, ~~ n\in\mathbb{Z}$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.25~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Då argumentet är det enda som är intressant kan alla faktorer skrivas ihop som $k$.
+		\begin{align*}
+		&\frac{(2+2i)(1+i\sqrt{3})}{3i(\sqrt{12}-2i)}=
+		\frac{2\sqrt{2}(\frac{1}{\sqrt{2}}+i\frac{1}{\sqrt{2}})\frac{1}{2}(\frac{1}{2}+i\frac{\sqrt{3}}{2})}{3i\frac{1}{4}(\frac{\sqrt{3}}{2}-i\frac{1}{2})}= \\ =
+		&k\frac{(\cos\frac{\pi}{4}+i\sin\frac{\pi}{4})(\cos\frac{\pi}{3}+i\sin\frac{\pi}{3})}{i\sin\frac{\pi}{2}(\cos(-\frac{\pi}{6})+i\sin(-\frac{\pi}{6}))}=
+		k\frac{e^{i\pi/4}e^{i\pi/3}}{e^{i\pi/2}e^{-i\pi/6}}= \\ =
+		&ke^{i(\pi/4+\pi/3-\pi/2-(-\pi/6))}=
+		ke^{i(3\pi/12+4\pi/12-6\pi/12+2\pi/12)}= \\ =
+		&ke^{i3\pi/12}=
+		ke^{i\pi/4} \Rightarrow \\ \Rightarrow
+		&\arg\frac{(2+2i)(1+i\sqrt{3})}{3i(\sqrt{12}-2i)}=\arg ke^{i\pi/4}=\frac{\pi}{4}+n2\pi, ~~ n\in\mathbb{Z}
+		\end{align*}
+		\\
+		\textbf{Svar:} $\frac{\pi}{4}+n2\pi, ~~ n\in\mathbb{Z}$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.26~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=a+bi$ och $\theta$ ett argument till $z$. Eftersom Re$z$ motsvarar x-axeln och Im$z$ motsvarar y-axeln i ett koordinatsystem är $\tan\theta=\frac{b}{a},~~a\neq 0$.Om $a > 0$ är $\theta=\arctan\frac{b}{a}$ och om $a < 0$ är $\theta=\pi+\arctan\frac{b}{a}$.
+		\[\arg(1+2iw)=\arctan\frac{2w}{1}=\arctan2w\]
+		\\
+		\textbf{Svar:} $\arctan2w$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=a+bi$ och $\theta$ ett argument till $z$. Eftersom Re$z$ motsvarar x-axeln och Im$z$ motsvarar y-axeln i ett koordinatsystem är $\tan\theta=\frac{b}{a},~~a\neq 0$.Om $a > 0$ är $\theta=\arctan\frac{b}{a}$ och om $a < 0$ är $\theta=\pi+\arctan\frac{b}{a}$.
+		\[\arg(-1+2iw)=\pi+\arctan\frac{2w}{-1}=\pi+\arctan(-2w)=\pi-\arctan2w\]
+		\\
+		\textbf{Svar:} $\pi-\arctan2w$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=a+bi$ och $\theta$ ett argument till $z$. Eftersom Re$z$ motsvarar x-axeln och Im$z$ motsvarar y-axeln i ett koordinatsystem är $\tan\theta=\frac{b}{a},~~a\neq 0$.Om $a > 0$ är $\theta=\arctan\frac{b}{a}$ och om $a < 0$ är $\theta=\pi+\arctan\frac{b}{a}$.
+		\[\arg 1 = 0,~~~~\arg(1+2iw) = \arctan2w \text{ (se \texttt{\tskcol{a)}})}\]
+		\[\arg\left(\frac{1}{1+2iw}\right)=\arg 1 - \arg(1+2iw)=0-\arctan2w=-\arctan2w\]
+		\\
+		\textbf{Svar:} $-\arctan2w$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=a+bi$ och $\theta$ ett argument till $z$. Eftersom Re$z$ motsvarar x-axeln och Im$z$ motsvarar y-axeln i ett koordinatsystem är $\tan\theta=\frac{b}{a},~~a\neq 0$.Om $a > 0$ är $\theta=\arctan\frac{b}{a}$ och om $a < 0$ är $\theta=\pi+\arctan\frac{b}{a}$.
+		\[\arg 1 = 0,~~~~\arg(-1+2iw) = \pi-\arctan2w \text{ (se \texttt{\tskcol{b)}})}\]
+		\[\arg\left(\frac{1}{-1+2iw}\right)=\arg 1 - \arg(-1+2iw)=0-(\pi-\arctan2w)=\arctan2w-\pi\]
+		\\
+		\textbf{Svar:} $\arctan2w-\pi$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~e) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=a+bi$ och $\theta$ ett argument till $z$. Eftersom Re$z$ motsvarar x-axeln och Im$z$ motsvarar y-axeln i ett koordinatsystem är $\tan\theta=\frac{b}{a},~~a\neq 0$.Om $a > 0$ är $\theta=\arctan\frac{b}{a}$ och om $a < 0$ är $\theta=\pi+\arctan\frac{b}{a}$.
+		\[\arg 1 = 0,~~~~\arg(1+2iw) = \arctan2w \text{ (se \texttt{\tskcol{a)}})}\]
+		\[\arg\left(\frac{1}{(1+2iw)^2}\right)=\arg 1 - 2\arg(1+2iw)=0-2\arctan2w=-2\arctan2w\]
+		\\
+		\textbf{Svar:} $-2\arctan2w$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~f) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=a+bi$ och $\theta$ ett argument till $z$. Eftersom Re$z$ motsvarar x-axeln och Im$z$ motsvarar y-axeln i ett koordinatsystem är $\tan\theta=\frac{b}{a},~~a\neq 0$.Om $a > 0$ är $\theta=\arctan\frac{b}{a}$ och om $a < 0$ är $\theta=\pi+\arctan\frac{b}{a}$.
+		\[\arg(e^{iw}) = w,~~~~\arg(1+2iw) = \arctan2w \text{ (se \texttt{\tskcol{a)}})}\]
+		\[\arg\left(\frac{e^{iw}}{(1+2iw)^2}\right)=\arg(e^{iw}) - 2\arg(1+2iw)=w-2\arctan2w\]
+		\\
+		\textbf{Svar:} $w-2\arctan2w$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.27~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd faktumet att både sinus och cosinus har perioden $2\pi$.
+		\begin{align*}
+		&\left(\tfrac{1}{2}+i\tfrac{\sqrt{3}}{2}\right)^{100}=
+		(\cos\tfrac{\pi}{3}+i\sin\tfrac{\pi}{3})^{100}=
+		(e^{i\pi/3})^{100}=
+		e^{i100\pi/3}= \\ =
+		&e^{i(102\pi/3-2\pi/3)}=
+		e^{i\pi(17*2\pi-2\pi/3)}=
+		e^{-i2\pi/3}= \\=
+		&\cos(-\tfrac{2\pi}{3})+i\sin(-\tfrac{2\pi}{3})=
+		-\frac{\sqrt{3}}{2}-i\frac{1}{2}
+		\end{align*}
+		\\
+		\textbf{Svar:} $-\frac{\sqrt{3}}{2}-i\frac{1}{2}$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{6.28~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Använd de Moivres formel och identifiera sedan den reella och imaginär delen var för sig.
+		\begin{align*}
+		&\cos4\theta+i\sin4\theta=
+		(\cos\theta+i\sin\theta)^4= \\=
+		&\cos^4\theta+i4\cos^3\theta\sin\theta+i^26\cos^2\theta\sin^2\theta+i^34\cos\theta\sin^3\theta+i^4\sin^4\theta= \\=
+		&(\cos^4\theta-6\cos^2\theta\sin^2\theta+\sin^4\theta)+i(4\cos^3\theta\sin\theta-4\cos\theta\sin^3\theta)
+		\end{align*}
+		$\cos4\theta=\cos^4\theta-6\cos^2\theta\sin^2\theta+\sin^4\theta$ \\
+		$\sin4\theta=4\cos^3\theta\sin\theta-4\cos\theta\sin^3\theta$
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} se ovan
 	\end{quotation}
 	
 	\texttt{\tskcol{6.29~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Eulers formler:
+		\[\cos\theta=\frac{1}{2}(e^{i\theta}+e^{-i\theta}),~~\sin\theta=\frac{1}{2i}(e^{i\theta}-e^{-i\theta})\]
+		\begin{align*}
+		&\cos\alpha\sin\beta=
+		\frac{1}{2}(e^{i\alpha}+e^{-i\alpha})\frac{1}{2i}(e^{i\beta}-e^{-i\beta})= \\ =
+		&\frac{1}{4i}(e^{i(\alpha+\beta)}-e^{i(\alpha-\beta)}+e^{-i(\alpha-\beta)}-e^{-i(\alpha+\beta)})= \\ =
+		&\frac{1}{2}\left(\frac{1}{2i}(e^{i(\alpha+\beta)}-e^{-i(\alpha+\beta)})-\frac{1}{2i}(e^{i(\alpha-\beta)}-e^{-i(\alpha-\beta)})\right)= \\ =
+		&\frac{1}{2}(\sin(\alpha+\beta)-\sin(\alpha-\beta))
+		\end{align*} 
+		\\
+		\textbf{Svar:} $\frac{1}{2}(\sin(\alpha+\beta)-\sin(\alpha-\beta))$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.30~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd Eulers formel för sinus.
+		\begin{align*}
+		&\sin^4\theta=
+		(\tfrac{1}{2i})^4(e^{i\theta}-e^{-i\theta})^4= \\ =
+		&\frac{1}{16}(e^{i4\theta}-4e^{i3\theta}e^{-i\theta}+6e^{i2\theta}e^{-i2\theta}-4e^{i\theta}e^{-i3\theta}+e^{-i4\theta})= \\ =
+		&\frac{1}{16}(e^{i4\theta}-4e^{i2\theta}+6e^{0}-4e^{-i2\theta}+e^{-i4\theta})= \\ =
+		&\frac{1}{8}(6\frac{1}{2}-4\frac{1}{2}(e^{i2\theta}+e^{-i2\theta})+\frac{1}{2}(e^{i4\theta}+e^{-i4\theta}))= \\ =
+		&\frac{3}{8}-\frac{1}{2}\cos 2\theta+\frac{1}{8}\cos 4\theta
+		\end{align*}
+		\\
+		\textbf{Svar:} $\frac{3}{8}-\frac{1}{2}\cos 2\theta+\frac{1}{8}\cos 4\theta$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.31~~a) (s.)}}
 	\begin{quotation}
 		\noindent
+		Att addera $\pi/2$ till argumentet är samma som att multiplicera med $e^{i\pi/2}$ vilket innebär att $1*e^{i\pi/2}=i$.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $i$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Att addera $\pi/2$ till argumentet är samma som att multiplicera med $e^{i\pi/2}$ vilket innebär att:
+		\[(-3+2i)e^{i\pi/2}=
+		(-3+2i)i=
+		-3i+2i^2=
+		-2-3i\]
+		\\
+		\textbf{Svar:} $-2-3i$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.32~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Att addera $5\pi/6$ till argumentet är samma som att multiplicera med $e^{i5\pi/6}$ och talet förstoras i skalan 3 genom att multiplicera med 3 vilket innebär att:
+		\[1e^{i5\pi/6}*3=
+		3(-\frac{\sqrt{3}}{2}+\frac{1}{2}i)=
+		-\frac{3\sqrt{3}}{2}+\frac{3}{2}i\]
+		\\
+		\textbf{Svar:} $-\frac{3\sqrt{3}}{2}+\frac{3}{2}i$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Att addera $5\pi/6$ till argumentet är samma som att multiplicera med $e^{i5\pi/6}$ och talet förstoras i skalan 3 genom att multiplicera med 3 vilket innebär att:
+		\begin{align*}
+		&(-1+i)e^{i5\pi/6}*3=
+		(-1+i)(-\frac{\sqrt{3}}{2}+\frac{1}{2}i)*3= \\ =
+		&(\frac{\sqrt{3}}{2}-\frac{1}{2}i-\frac{\sqrt{3}}{2}i-\frac{1}{2})*3=
+		3(\frac{\sqrt{3}-1}{2}-\frac{\sqrt{3}+1}{2}i)= \\ =
+		&\frac{3(\sqrt{3}-1)}{2}-\frac{3(\sqrt{3}+1)}{2}i
+		\end{align*}
+		\\
+		\textbf{Svar:} $\frac{3(\sqrt{3}-1)}{2}-\frac{3(\sqrt{3}+1)}{2}i$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.33~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Först måste förstoringen och vridningen identifieras. Dessa kan dock göras tillsammans eftersom båda ändå ska multipliceras med hörnen. $2(a+bi)=7+i \Rightarrow a=\frac{7}{2},~~ b=\frac{1}{2}$. $\frac{7}{2}+\frac{1}{2}i$ är alltså faktorn alla hörnen ska multipliceras med.
+		\[0(\frac{7}{2}+\frac{1}{2}i)=0\]
+		\[(2+i)(\frac{7}{2}+\frac{1}{2}i)=7+i+\frac{7}{2}i-\frac{1}{2}=\frac{13}{2}+\frac{9}{2}i\]
+		\[i(\frac{7}{2}+\frac{1}{2}i)=\frac{7}{2}i+\frac{1}{2}i^2=-\frac{1}{2}+\frac{7}{2}i\]
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $0$, $\frac{13}{2}+\frac{9}{2}i$, $-\frac{1}{2}+\frac{7}{2}i$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.34~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[e^0=1\]
+		\\
+		\textbf{Svar:} 1
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[e^{i\pi/2}=\cos\frac{\pi}{2}+i\sin\frac{\pi}{2}=i\]
+		\\
+		\textbf{Svar:} $i$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\begin{align*}
+		&e^{1/2\ln2+i\pi/4}=
+		e^{1/2\ln 2}e^{i\pi/4}=
+		\sqrt{e^{\ln2}}(\cos\frac{\pi}{4}+i\sin\frac{\pi}{4})= \\ =
+		&\sqrt{2}\left(\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}}i\right)=
+		1+i
+		\end{align*}
+		\\
+		\textbf{Svar:} $1+i$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[e^{i\pi}=\cos\pi+i\sin\pi=-1\]
+		\\
+		\textbf{Svar:} -1
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~e) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[e^{3-i}=
+		e^3e^{-i}=e^3(\cos(-1)+i\sin(-1)=
+		e^3\cos 1- ie^3\sin 1\]
+		\\
+		\textbf{Svar:} $e^3\cos 1- ie^3\sin 1$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.35~~a) (s.)}}
 	\begin{quotation}
 		\noindent
+		\begin{align*}
+		f(x)=&\frac{1+ix}{1-ix}=
+		\frac{(1+ix)^2}{(1-ix)(1+ix)}=
+		\frac{1^2+2ix+(ix)^2}{1+x^2}= \\ =
+		&\frac{1+2xi-x^2}{1+x^2}=
+		\frac{1-x^2}{1+x^2}+\frac{2x}{1+x^2}i
+		\end{align*}
+		Re$f(x)=\dfrac{1-x^2}{1+x^2}$,~~~~Im$f(x)=\dfrac{2x}{1+x^2}$
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $\frac{1-x^2}{1+x^2}$, $\frac{2x}{1+x^2}$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
+		\begin{align*}
+		g(x)=&e^{(-1+i)x}=
+		e^{-x+ix}=
+		e^{-x}e^{ix}=
+		e^{-x}(\cos x + i\sin x)=  \\ =
+		&e^{-x}\cos x + ie^{-x}\sin x
+		\end{align*}
+		Re$g(x)=e^{-x}\cos x$,~~~~Im$f(x)=e^{-x}\sin x$
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $e^{-x}\cos x$, $e^{-x}\sin x$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.36~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Använd $|e^{i\theta}|=1$ samt att $e^x$ alltid är positivt oberoende av vad $x$ är.
+		\[|e^{x+yi}|=
+		|e^xe^{iy}|=
+		|e^x||e^{iy}|=
+		|e^x|=e^x\]
+		\[\arg e^{x+yi}=\arg(e^xe^{iy})=y+n2\pi,~~n\in\mathbb{Z}\]
+		\\
+		\textbf{Svar:} $y+n2\pi,~~n\in\mathbb{Z}$
 	\end{quotation}
 	
 	\subsection*{Polynomekvationer}
@@ -5950,36 +6097,132 @@
 	\texttt{\tskcol{6.37~~a) (s.)}}
 	\begin{quotation}
 		\noindent
+		Låt $z=a+bi$.
+		\[(a+bi)^2=5+12i \Leftrightarrow
+		a^2+2abi-b^2=5+12i \Leftrightarrow
+		\begin{cases}
+		a^2-b^2=5 \\
+		2ab=12
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|5+12i| \Leftrightarrow a^2+b^2=\sqrt{25+144}=13$.
+		\[\begin{cases}
+		a^2-b^2 = 5 \\
+		a^2+b^2 = 13
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 5+13 \Leftrightarrow
+		2a^2=18 \Leftrightarrow
+		a^2=9 \Leftrightarrow
+		a=\pm3\]
+		\[9+b^2=13 \Leftrightarrow
+		b^2=13-9 \Leftrightarrow
+		b=\pm 2\]
+		Ekvationen $2ab=12$ från första ekvationssystemet kräver att $a$ och $b$ har samma tecken för att det ska stämma vilket innebär att lösningarna till huvudekvationen är $3+2i$ samt $-3-2i$.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $3+2i$ och $-3-2i$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[z^2-(2+2i)z-5-10i=0\]
+		Förenkla först vänsterledet genom att kvadratkomplettera.
+		\[z^2-(2+2i)z-5-10i=(z-(i+i))^2-2i-5-10i=(z-1-i)^2-5-12i\]
+		Låt $w=z-1-i=a+bi$.
+		\[(a+bi)^2-5-12i=0 \Leftrightarrow
+		a^2+2abi-b^2=5+12i\]
+		Se uppgift \texttt{\tskcol{a)}} och för lösning till ekvationen.
+		\[\begin{cases}
+		w_1=3+2i \Leftrightarrow 3+2i=z_1-1-i \Leftrightarrow z_1=4+3i \\
+		w_2=-3-2i \Leftrightarrow -3-2i=z_2-1-i \Leftrightarrow z_2=-2-i
+		\end{cases}\]
+		\\
+		\textbf{Svar:} $4+3i$ och $-2-i$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.38~~a) (s.)}}
 	\begin{quotation}
 		\noindent
+		Låt $z=a+bi$.
+		\[(a+bi)^2=-i \Leftrightarrow
+		a^2+2abi-b^2=-i \Leftrightarrow
+		\begin{cases}
+		a^2-b^2=0 \\
+		2ab=-1
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|-i| \Leftrightarrow a^2+b^2=1$.
+		\[\begin{cases}
+		a^2-b^2 = 0 \\
+		a^2+b^2 = 1
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 1 \Leftrightarrow
+		2a^2=1 \Leftrightarrow
+		a^2=\frac{1}{2} \Leftrightarrow
+		a=\pm\frac{1}{\sqrt{2}}\]
+		\[\frac{1}{2}+b^2=1 \Leftrightarrow
+		b^2=\frac{1}{2} \Leftrightarrow
+		b=\pm \frac{1}{\sqrt{2}}\]
+		Ekvationen $2ab=-1$ från första ekvationssystemet kräver att $a$ och $b$ har olika tecken för att det ska stämma vilket innebär att lösningarna till huvudekvationen är $\frac{1}{\sqrt{2}}-\frac{1}{\sqrt{2}}i$ samt $-\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}}i$ som kan skrivas $\pm\frac{1}{\sqrt{2}}(1-i)$.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $\pm\frac{1}{\sqrt{2}}(1-i)$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
+		Låt $z=a+bi$.
+		\[(a+bi)^2=1+i\sqrt{3} \Leftrightarrow
+		a^2+2abi-b^2=1+i\sqrt{3} \Leftrightarrow
+		\begin{cases}
+		a^2-b^2=1 \\
+		2ab=\sqrt{3}
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|1+i\sqrt{3}| \Leftrightarrow a^2+b^2=\sqrt{1+3}=2$.
+		\[\begin{cases}
+		a^2-b^2 = 1 \\
+		a^2+b^2 = 2
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 1+2 \Leftrightarrow
+		2a^2=3 \Leftrightarrow
+		a^2=\frac{3}{2} \Leftrightarrow
+		a=\pm\frac{\sqrt{3}}{\sqrt{2}}\]
+		\[\frac{3}{2}+b^2=2 \Leftrightarrow
+		b^2=\frac{1}{2} \Leftrightarrow
+		b=\pm \frac{1}{\sqrt{2}}\]
+		Ekvationen $2ab=\sqrt{3}$ från första ekvationssystemet kräver att $a$ och $b$ har samma tecken för att det ska stämma vilket innebär att lösningarna till huvudekvationen är $\frac{\sqrt{3}}{\sqrt{2}}+\frac{1}{\sqrt{2}}i$ samt $-\frac{\sqrt{3}}{\sqrt{2}}-\frac{1}{\sqrt{2}}i$.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $\pm\frac{1}{\sqrt{2}}(\sqrt{3}+i)$ (vilket är lika med det i facit)
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
+		Låt $z=a+bi$.
+		\[(a+bi)^2=4i+3 \Leftrightarrow
+		a^2+2abi-b^2=3+4i\Leftrightarrow
+		\begin{cases}
+		a^2-b^2=3 \\
+		2ab=4
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|3+4i| \Leftrightarrow a^2+b^2=\sqrt{9+16}=5$.
+		\[\begin{cases}
+		a^2-b^2 = 3 \\
+		a^2+b^2 = 5
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 3+5 \Leftrightarrow
+		2a^2=8 \Leftrightarrow
+		a^2=4 \Leftrightarrow
+		a=\pm2\]
+		\[4+b^2=5 \Leftrightarrow
+		b^2=1 \Leftrightarrow
+		b=\pm 1\]
+		Ekvationen $2ab=4$ från första ekvationssystemet kräver att $a$ och $b$ har samma tecken för att det ska stämma vilket innebär att lösningarna till huvudekvationen är $2+i$ samt $-2-i$.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $\pm(2+i)$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.38~~a) (s.)}}
