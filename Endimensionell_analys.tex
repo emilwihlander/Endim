@@ -2008,7 +2008,7 @@
 		y^3-20y^2+128y-265=0
 		\end{align*}
 		Ansätter lösning med $x-5$ som faktor från ursprungsfiguren (kan lösas med polynomdivision också): \\
-		\[y^3-20y^2+128y-265=(x-5)(x^2+Ax+B)=x^3+(A-5)y^2+(B-5A)y-5B\]
+		\[y^3-20y^2+128y-265=(y-5)(y^2+Ay+B)=y^3+(A-5)y^2+(B-5A)y-5B\]
 		Identifierar variablerna: \\
 		\[\begin{cases}
 		A-5=-20 \\
@@ -6225,100 +6225,446 @@
 		\textbf{Svar:} $\pm(2+i)$
 	\end{quotation}
 	
-	\texttt{\tskcol{6.38~~a) (s.)}}
+	\pagebreak
+	\texttt{\tskcol{6.39~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[z^2+2iz-1+2i=0\]
+		Förenkla först vänsterledet genom att kvadratkomplettera.
+		\[z^2+2iz-1+2i=(z+i)^2-(-1)-1+2i=(z+i)^2+2i\]
+		Låt $w=z+i=a+bi$.
+		\[(a+bi)^2+2i=0 \Leftrightarrow
+		a^2+2abi-b^2=-2i\Leftrightarrow
+		\begin{cases}
+		a^2-b^2=0 \\
+		2ab=-2
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|-2i| \Leftrightarrow a^2+b^2=2$.
+		\[\begin{cases}
+		a^2-b^2 = 0 \\
+		a^2+b^2 = 2
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 0+2 \Leftrightarrow
+		2a^2=2 \Leftrightarrow
+		a^2=1 \Leftrightarrow
+		a=\pm1\]
+		\[1+b^2=2 \Leftrightarrow
+		b^2=1 \Leftrightarrow
+		b=\pm 1\]
+		Ekvationen $2ab=-2$ från första ekvationssystemet kräver att $a$ och $b$ har olika tecken för att det ska stämma vilket innebär att lösningarna till $w$ är $-1+i$ samt $1-i$.
+		\[\begin{cases}
+		w_1=-1+i \Leftrightarrow -1+i=z_1+i \Leftrightarrow z_1=-1 \\
+		w_2=1-i \Leftrightarrow 1-i=z_2+i \Leftrightarrow z_2=1-2i
+		\end{cases}\]
+		\\
+		\textbf{Svar:} $z_1=-1$ och $z_2=1-2i$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[z^2+(2-2i)z-6i-3=0\]
+		Förenkla först vänsterledet genom att kvadratkomplettera.
+		\[z^2+2iz-1+2i=(z+1-i)^2-(-2i)-6i-3=(z+1-i)^2-3-4i\]
+		Låt $w=z+1-i=a+bi$.
+		\[(a+bi)^2-3-4i=0 \Leftrightarrow
+		a^2+2abi-b^2=3+4i\Leftrightarrow
+		\begin{cases}
+		a^2-b^2=3 \\
+		2ab=4
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|3+4i| \Leftrightarrow a^2+b^2=\sqrt{9+16}=5$.
+		\[\begin{cases}
+		a^2-b^2 = 3 \\
+		a^2+b^2 = 5
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 3+5 \Leftrightarrow
+		2a^2=8 \Leftrightarrow
+		a^2=4 \Leftrightarrow
+		a=\pm2\]
+		\[4+b^2=5 \Leftrightarrow
+		b^2=1 \Leftrightarrow
+		b=\pm 1\]
+		Ekvationen $2ab=4$ från första ekvationssystemet kräver att $a$ och $b$ har samma tecken för att det ska stämma vilket innebär att lösningarna till $w$ är $2+i$ samt $-2-i$.
+		\[\begin{cases}
+		w_1=2+i \Leftrightarrow 2+i=z_1+1-i \Leftrightarrow z_1=1+2i \\
+		w_2=-2-i \Leftrightarrow -2-i=z_2+1-i \Leftrightarrow z_2=-3
+		\end{cases}\]
+		\\
+		\textbf{Svar:} $z_1=1+2i$ och $z_2=-3$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{6.40~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[(2+i)z^2+(1-7i)z-5=0\]
+		Dela alla termerna med $2-i$.
+		\begin{align*}
+		&z^2+\frac{1-7i}{2+1}z-\frac{5}{2+i}=0 \Leftrightarrow
+		z^2+\frac{(1-7i)(2-i)}{(2+i)(2-i)}z-\frac{5(2-i)}{(2+i)(2-i)}=0 \Leftrightarrow \\ \Leftrightarrow
+		&z^2+\frac{2-i-14i-7}{4+1}z-\frac{5(2-i)}{4+1}=0 \Leftrightarrow
+		z^2+\frac{5(-1-3i)}{5}z-\frac{5(2-i)}{5}=0 \Leftrightarrow \\ \Leftrightarrow
+		&z^2+(-1-3i)z-(2-i)=0
+		\end{align*}
+		Förenkla först vänsterledet genom att kvadratkomplettera.
+		\begin{align*}
+		&z^2+(-1-3i)z-(2-i)=
+		(z-(\tfrac{1}{2}+\tfrac{3}{2}i))^2-(\tfrac{1}{2}+\tfrac{3}{2}i)^2-2+i= \\ =
+		&(z-\tfrac{1}{2}-\tfrac{3}{2}i)^2-(\tfrac{1}{4}+\tfrac{3}{2}i-\tfrac{9}{4})-2+i=
+		(z-\tfrac{1}{2}-\tfrac{3}{2}i)^2+2-\tfrac{3}{2}i-2+i= \\ =
+		&(z-\tfrac{1}{2}-\tfrac{3}{2}i)^2-\tfrac{1}{2}i
+		\end{align*}
+		Låt $w=z-\tfrac{1}{2}-\tfrac{3}{2}i=a+bi$.
+		\[(a+bi)^2-\tfrac{1}{2}i=0 \Leftrightarrow
+		a^2+2abi-b^2=\tfrac{1}{2}i\Leftrightarrow
+		\begin{cases}
+		a^2-b^2=0 \\
+		2ab=\tfrac{1}{2}
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|\tfrac{1}{2}i| \Leftrightarrow a^2+b^2=\tfrac{1}{2}$.
+		\[\begin{cases}
+		a^2-b^2 = 0 \\
+		a^2+b^2 = \tfrac{1}{2}
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 0+\tfrac{1}{2} \Leftrightarrow
+		2a^2=\tfrac{1}{2} \Leftrightarrow
+		a^2=\tfrac{1}{4} \Leftrightarrow
+		a=\pm\tfrac{1}{2}\]
+		\[\tfrac{1}{4}+b^2=\tfrac{1}{2} \Leftrightarrow
+		b^2=\tfrac{1}{4} \Leftrightarrow
+		b=\pm \tfrac{1}{2}\]
+		Ekvationen $2ab=\tfrac{1}{2}$ från första ekvationssystemet kräver att $a$ och $b$ har samma tecken för att det ska stämma vilket innebär att lösningarna till $w$ är $\tfrac{1}{2}+\tfrac{1}{2}i$ samt $-\tfrac{1}{2}-\tfrac{1}{2}i$.
+		\[\begin{cases}
+		w_1=\tfrac{1}{2}+\tfrac{1}{2}i \Leftrightarrow \tfrac{1}{2}+\tfrac{1}{2}i=z_1-\tfrac{1}{2}-\tfrac{3}{2}i \Leftrightarrow z_1=1+2i \\
+		w_2=-\tfrac{1}{2}-\tfrac{1}{2} \Leftrightarrow -\tfrac{1}{2}-\tfrac{1}{2}=z_2-\tfrac{1}{2}-\tfrac{3}{2}i \Leftrightarrow z_2=i
+		\end{cases}\]
+		\\
+		\textbf{Svar:} $z_1=1+2i$ och $z_2=i$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{6.41~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=re^{i\theta}$ och skriv om högerledet till polär form.
+		\[z^3=i \Leftrightarrow
+		r^3e^{i3\theta}=e^{i\pi/2} \Leftrightarrow
+		\begin{cases}
+		r^3 = 1 \\
+		3\theta=\frac{\pi}{2}+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=1 \\
+		\theta=\frac{\pi}{6}+k\frac{2\pi}{3}
+		\end{cases}\] 
+		$k=0,1,2$ ger tre unika rötter.
+		\[z_1=e^{i\pi/6}=\frac{\sqrt{3}}{2}+\frac{1}{2}i,~~
+		z_2=e^{i5\pi/6}=-\frac{\sqrt{3}}{2}+\frac{1}{2}i,~~
+		z_3=e^{i3\pi/2}=-i\]
+		\includegraphics[scale=0.2]{images/641a.PNG}
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=re^{i\theta}$ och skriv om högerledet till polär form.
+		\[z^3=1+i \Leftrightarrow
+		r^3e^{i3\theta}=\sqrt{2}e^{i\pi/4} \Leftrightarrow
+		\begin{cases}
+		r^3 = \sqrt{2} \\
+		3\theta=\frac{\pi}{4}+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=2^{1/6} \\
+		\theta=\frac{\pi}{12}+k\frac{2\pi}{3}
+		\end{cases}\] 
+		$k=0,1,2$ ger tre unika rötter.
+		\[z_1=2^{1/6}e^{i\pi/12},~~
+		z_2=2^{1/6}e^{i3\pi/4},~~
+		z_3=2^{1/6}e^{i17\pi/12}\]
+		\includegraphics[scale=0.2]{images/641b.PNG}
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=re^{i\theta}$ och skriv om högerledet till polär form. ($r$ kan endast vara positiv eftersom det är ett avstånd)
+		\[z^4=16 \Leftrightarrow
+		r^4e^{i4\theta}=16e^{i0} \Leftrightarrow
+		\begin{cases}
+		r^4 = 16 \\
+		4\theta=k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=\varpm 2 \\
+		\theta=k\frac{\pi}{2}
+		\end{cases}\] 
+		$k=0,1,2,3$ ger fyra unika rötter.
+		\[z_1=2e^{i0}=2,~~
+		z_2=2e^{i\pi/2}=2i,~~
+		z_3=2e^{i\pi}=-2,~~
+		z_4=2e^{i3\pi/2}=-2i\]
+		\includegraphics[scale=0.2]{images/641c.PNG}
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~d) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=re^{i\theta}$ och skriv om högerledet till polär form.
+		\[z^3=i\sqrt{3}-1 \Leftrightarrow
+		r^3e^{i3\theta}=2e^{i2\pi/3} \Leftrightarrow
+		\begin{cases}
+		r^3 = 2 \\
+		3\theta=\frac{2\pi}{3}+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=2^{1/3} \\
+		\theta=\frac{2\pi}{9}+k\frac{2\pi}{3}
+		\end{cases}\] 
+		$k=0,1,2$ ger tre unika rötter.
+		\[z_1=2^{1/3}e^{i2\pi/9},~~
+		z_2=2^{1/3}e^{i8\pi/9},~~
+		z_3=2^{1/3}e^{i14\pi/9}\]
+		\includegraphics[scale=0.2]{images/641d.PNG}
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{~~~~~~e) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=re^{i\theta}$ och skriv om högerledet till polär form.
+		\[z^5=4i \Leftrightarrow
+		r^5e^{i5\theta}=4e^{i\pi/2} \Leftrightarrow
+		\begin{cases}
+		r^5 = 4 \\
+		5\theta=\frac{\pi}{2}+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=4^{1/5} \\
+		\theta=\frac{\pi}{10}+k\frac{2\pi}{5}
+		\end{cases}\] 
+		$k=0,1,2,3,4$ ger fem unika rötter.
+		\[z_1=4^{1/5}e^{i\pi/10},~~
+		z_2=4^{1/5}e^{i\pi/2}=4^{1/5}i,~~
+		z_3=4^{1/5}e^{i9\pi/10},\]
+		\[z_4=4^{1/5}e^{i13\pi/10},~~
+		z_5=4^{1/5}e^{i17\pi/10}\]
+		\includegraphics[scale=0.2]{images/641e.PNG}
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~f) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Låt $z=re^{i\theta}$ och skriv om högerledet till polär form. ($r$ kan endast vara positiv eftersom det är ett avstånd)
+		\[z^4=-1 \Leftrightarrow
+		r^4e^{i4\theta}=e^{i\pi} \Leftrightarrow
+		\begin{cases}
+		r^4 = 1 \\
+		4\theta=\pi+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=\varpm 1 \\
+		\theta=\frac{\pi}{4}+k\frac{\pi}{2}
+		\end{cases}\] 
+		$k=0,1,2,3$ ger fyra unika rötter.
+		\[z_1=e^{i\pi/4}=\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}}i,~~
+		z_2=e^{i3\pi/4}=-\frac{1}{\sqrt{2}}+\frac{1}{\sqrt{2}}i,\]
+		\[z_3=e^{i5\pi/4}=-\frac{1}{\sqrt{2}}-\frac{1}{\sqrt{2}}i,~~
+		z_4=e^{i7\pi/4}=\frac{1}{\sqrt{2}}-\frac{1}{\sqrt{2}}i\]
+		\includegraphics[scale=0.2]{images/641f.PNG}
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{6.42~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[z^6-2z^3+2=0\]
+		Låt $w=z^3$.
+		Förenkla först vänsterledet genom att kvadratkomplettera.
+		\[z^6-2z^3+2=w^2-2w+2=(w-1)^2-1+2=(w-1)^2+1\]
+		Låt $u=w-1=a+bi$.
+		\[(a+bi)^2+1=0 \Leftrightarrow
+		a^2+2abi-b^2=-1\Leftrightarrow
+		\begin{cases}
+		a^2-b^2=-1 \\
+		2ab=0
+		\end{cases}\]
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|-1| \Leftrightarrow a^2+b^2=1$.
+		\[\begin{cases}
+		a^2-b^2 = -1 \\
+		a^2+b^2 = 1
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = -1+1 \Leftrightarrow
+		2a^2=0 \Leftrightarrow
+		a=0\]
+		\[0+b^2=1 \Leftrightarrow
+		b^2=1 \Leftrightarrow
+		b=\pm 1\]
+		Lösningarna till $u$ är $i$ samt $-i$.
+		\[\begin{cases}
+		u_1=i \Leftrightarrow i=w_1-1 \Leftrightarrow w_1=1+i \\
+		u_2=-i \Leftrightarrow -i=w_2-1 \Leftrightarrow w_2=1-i
+		\end{cases}\]
+		Låt $z=re^{i\theta}$ och skriv om $w_1$ och $w_2$ i polär form.
+		\[\begin{cases}
+		(z_{1,2,3})^3=w_1 \Leftrightarrow r^3e^{i3\theta}=\sqrt{2}e^{i\pi/4} \\
+		(z_{4,5,6})^3=w_2 \Leftrightarrow r^3e^{i3\theta}=\sqrt{2}e^{-i\pi/4}
+		\end{cases}\]
+		\[z_{1,2,3}=
+		\begin{cases}
+		r^3=\sqrt{2} \\
+		3\theta=\frac{\pi}{4}+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=2^{1/6} \\
+		\theta=\frac{\pi}{12}+k\frac{2\pi}{3}
+		\end{cases}\]
+		\[z_1=2^{1/6}e^{\pi/12},~~
+		z_2=2^{1/6}e^{3\pi/4},~~
+		z_3=2^{1/6}e^{17\pi/12}\]
+		\[z_{4,5,6}=
+		\begin{cases}
+		r^3=\sqrt{2} \\
+		3\theta=-\frac{\pi}{4}+k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=2^{1/6} \\
+		\theta=-\frac{\pi}{12}+k\frac{2\pi}{3}
+		\end{cases}\]
+		\[z_4=2^{1/6}e^{23\pi/12},~~
+		z_5=2^{1/6}e^{7\pi/12},~~
+		z_6=2^{1/6}e^{5\pi/4}\]
+		\\
+		\textbf{Svar:} $2^{1/6}e^{\pi/12}$, $2^{1/6}e^{7\pi/12}$, $2^{1/6}e^{3\pi/4}$, $2^{1/6}e^{5\pi/4}$, $2^{1/6}e^{17\pi/12}$, $2^{1/6}e^{23\pi/12}$
 	\end{quotation}
 	
+	\pagebreak
 	\texttt{\tskcol{6.43~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Låt $w=1+z^2=re^{i\theta}$ och skriv om högerledet i polär form.
+		\begin{align*}
+		&(1+z^2)^3=-8 \Leftrightarrow
+		w^3=-8 \Leftrightarrow \\ \Leftrightarrow
+		&r^3e^{i3\theta}=8e^{i\pi} \Leftrightarrow
+		\begin{cases}
+		r^3=8 \\
+		3\theta = \pi + k2\pi
+		\end{cases} \Leftrightarrow
+		\begin{cases}
+		r=2 \\
+		\theta = \frac{\pi}{3} +k\frac{2\pi}{3}
+		\end{cases}
+		\end{align*}
+		$k=0,1,2$ ger tre unika rötter.
+		\begin{align*}
+		&w_1=2e^{i\pi/3}=2(\tfrac{1}{2}+\tfrac{\sqrt{3}}{2}i)=1+i\sqrt{3} \\
+		&w_2=2e^{i\pi}=-2 \\
+		&w_3=2e^{i5\pi/3}=2(\tfrac{1}{2}-\tfrac{\sqrt{3}}{2}i)=1-i\sqrt{3}
+		\end{align*}
+		Låt $z=a+bi$ och lös $z$ för $w_1$ och $w_3$ först och sen $w_2$.
+		\begin{align*}
+		w_{1,3}=1+z^2 \Leftrightarrow
+		1\pm i\sqrt{3}=1+(a+bi)^2 \Leftrightarrow
+		a^2+2abi-b^2=\pm i\sqrt{3} \Leftrightarrow
+		\begin{cases}
+		a^2-b^2=0 \\
+		2ab =\pm \sqrt{3}
+		\end{cases}
+		\end{align*}
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|i\sqrt{3}| \Leftrightarrow a^2+b^2=\sqrt{3}$.
+		\[\begin{cases}
+		a^2-b^2=0 \\
+		a^2+b^2=\sqrt{3}
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 0+\sqrt{3} \Leftrightarrow
+		2a^2=\sqrt{3} \Leftrightarrow
+		a^2=\frac{\sqrt{3}}{2} \Leftrightarrow
+		a=\pm\left(\frac{\sqrt{3}}{2}\right)^{1/2}=
+		\pm\left(\frac{3}{4}\right)^{1/4}\]
+		\[\frac{\sqrt{3}}{2}+b^2=\sqrt{3} \Leftrightarrow
+		b^2=\frac{\sqrt{3}}{2} \Leftrightarrow
+		b=\pm\left(\frac{3}{4}\right)^{1/4}\]
+		Ekvationen $2ab =\pm \sqrt{3}$ från första ekvationssystemet ger att $a$ och $b$ kan ha samma och olika tecken för att det ska stämma. Lösningarna är alltså: $\pm\left(\frac{3}{4}\right)^{1/4}\pm\left(\frac{3}{4}\right)^{1/4}i=\left(\frac{3}{4}\right)^{1/4}(\pm1\pm i)$.
+		\begin{align*}
+		w_2=1+z^2 \Leftrightarrow
+		-2=1+(a+bi)^2 \Leftrightarrow
+		a^2+2abi-b^2=-3 \Leftrightarrow
+		\begin{cases}
+		a^2-b^2=-3 \\
+		2ab = 0
+		\end{cases}
+		\end{align*}
+		Istället för att lösa ekvationssystemet nu utnyttjar vi  att $|(a+bi)^2|=|-3| \Leftrightarrow a^2+b^2=3$.
+		\[\begin{cases}
+		a^2-b^2=-3 \\
+		a^2+b^2=3
+		\end{cases}\]
+		Additionsmetoden:
+		\[a^2-\cancel{b^2}+a^2+\cancel{b^2} = 3-3 \Leftrightarrow
+		2a^2=0 \Leftrightarrow
+		a=0\]
+		\[0+b^2=3 \Leftrightarrow
+		b^2=3 \Leftrightarrow
+		b=\pm\sqrt{3}\]
+		Lösningarna till $w_2=\pm i\sqrt{3}$.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $\left(\frac{3}{4}\right)^{1/4}(\pm1\pm i)$ och $\pm i\sqrt{3}$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.44~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Ansätter lösning med $x-1$ som faktor (kan lösas med polynomdivision också): \\
+		\[x^3-2x^2-19x+a=(x-1)(x^2+Ax+B)=x^3+(A-1)x^2+(B-A)x-B\]
+		Identifierar variablerna: \\
+		\[\begin{cases}
+		A-1=-2 \\
+		B-A=-19 \\
+		-B=a
+		\end{cases}
+		\Leftrightarrow
+		\begin{cases}
+		A=-1 \\
+		B=-20 \\
+		a=20
+		\end{cases}\]
+		\[x^3-2x^2-19x+20=(x-1)(x^2-x-20)\] \\
+		Faktorisera $x^2-x-20$ med pq-formeln.
+		\[x^2-x-20=0\]
+		\[x=\frac{1}{2}\pm\sqrt{\frac{1}{4}+20}=
+		\frac{1}{2}\pm\sqrt{\frac{81}{4}}=
+		\frac{1}{2}\pm\frac{9}{2}\]
+		\[x_1=5,~~x_2=-4\]
+		\[(x-1)(x^2-x-20)=(x-1)(x-5)(x+4)\]
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $a=20$, $p(x)=(x-1)(x-5)(x+4)$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.45~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Eftersom polynomets koefficienter är reella kommer varje komplex rots konjugat också vara en lösning. Detta innebär att eftersom $2-i$ och $-1-2i$ är rötter är $2+i$ och $-1+2i$ också det. Eftersom polynomets grad är fyra och vi har fyra rötter har vi hittat alla lösningar.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $2\pm i$ och $-1\pm2i$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.46~~~~ (s.)}}
 	\begin{quotation}
 		\noindent
+		Pga. reella koefficienter kommer nollställenas konjugat också vara rötter vilket innebär att det polynomet har enkelt nollställe i $z=2+i$ och dubbelt nollställe i $z=-i$.
+		\begin{align*}
+		&(z-(2-i))(z-(2+i))(z-i)(z-i)(z+i)(z+i)= \\=
+		&z^6-4z^5+7z^4-8z^3+11z^2-4z+5
+		\end{align*}
 		\\ \\
 		\textbf{Svar:}
 	\end{quotation}
@@ -6326,22 +6672,37 @@
 	\texttt{\tskcol{6.47~~a) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		\[z^2-7z+10=0\]
+		pq-formeln:
+		\[z=\frac{7}{2}\pm\sqrt{\frac{49}{4}-10}=
+		\frac{7}{2}\pm\sqrt{\frac{9}{4}}=
+		\frac{7}{2}\pm\frac{3}{2}\]
+		\[z_1=5,~~z_2=2\]
+		\\
+		\textbf{Svar:} $z_1=5$, $z_2=2$, $z_1+z_2=7$, $z_1z_2=10$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~b) (s.)}}
 	\begin{quotation}
 		\noindent
+		\[3z^2-21z+30=0 \Leftrightarrow 
+		z^2-7z+10=0\]
+		Se \texttt{\tskcol{a)}} för lösning.
 		\\ \\
-		\textbf{Svar:}
+		\textbf{Svar:} $z_1=5$, $z_2=2$, $z_1+z_2=7$, $z_1z_2=10$
 	\end{quotation}
 	
 	\texttt{\tskcol{~~~~~~c) (s.)}}
 	\begin{quotation}
 		\noindent
-		\\ \\
-		\textbf{Svar:}
+		Faktorisera polynomet (se \texttt{\tskcol{a)}}).
+		\[z^3-7z^2+10z=z(z^2-7z+10)=z(z-5)(z-2)=0\]
+		Faktorsatsen ger:
+		\[z_1=0,~~
+		z_2=5,~~
+		z_3=2\]
+		\\
+		\textbf{Svar:} $z_1=0$, $z_2=5$, $z_3=2$, $z_1+z_2+z_3=7$, $z_1z_2z_3=0$
 	\end{quotation}
 	
 	\texttt{\tskcol{6.48~~~~ (s.)}}
