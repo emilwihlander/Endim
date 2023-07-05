@@ -8,7 +8,7 @@ Hittills är de fem första kapitlen färdiga (28/4/16)
 - [x] kapitel 3 (31/3/16)
 - [x] kapitel 4 (7/4/16)
 - [x] kapitel 5 (28/4/16)
-- [ ] kapitel 6
+- [x] kapitel 6 (9/11/20)  t.o.m. 6.57
 - [ ] kapitel 7
 - [ ] kapitel 8
 - [ ] kapitel 9
